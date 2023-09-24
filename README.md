@@ -27,16 +27,67 @@ If you're seeking guidance on how to prepare for technical interviews, you might
 
 ## Job Opportunities
 
-### International Jobs
+### Grad '25
+
+- Regular Jobs
+
+| Employer                  | Location        | Positions                                 | Date Added         |
+|---------------------------|-----------------|-------------------------------------------|--------------------|
+| [Company X](LinkX)        | - Location X    | ✅ [Job Title X](LinkX)                 | 📅 Date Posted X   |
+| [Company Y](LinkY)        | - Location Y    | ✅ [Job Title Y](LinkY)                 | 📅 Date Posted Y   |
+
+- International Jobs
 
 | Employer                  | Location        | Country     | Positions                                 | Date Added         |
 |---------------------------|-----------------|-------------|-------------------------------------------|--------------------|
 | [Company A](LinkA)        | - Location A    | 🌏 Country A| ✅ [Job Title A](LinkA)                 | 📅 Date Posted A   |
 | [Company B](LinkB)        | - Location B    | 🌏 Country B| ✅ [Job Title B](LinkB)                 | 📅 Date Posted B   |
 
-### Regular Jobs
+### Grad '24
+
+- Regular Jobs
 
 | Employer                  | Location        | Positions                                 | Date Added         |
 |---------------------------|-----------------|-------------------------------------------|--------------------|
 | [Company X](LinkX)        | - Location X    | ✅ [Job Title X](LinkX)                 | 📅 Date Posted X   |
 | [Company Y](LinkY)        | - Location Y    | ✅ [Job Title Y](LinkY)                 | 📅 Date Posted Y   |
+
+- International Jobs
+
+| Employer                  | Location        | Country     | Positions                                 | Date Added         |
+|---------------------------|-----------------|-------------|-------------------------------------------|--------------------|
+| [Company A](LinkA)        | - Location A    | 🌏 Country A| ✅ [Job Title A](LinkA)                 | 📅 Date Posted A   |
+| [Company B](LinkB)        | - Location B    | 🌏 Country B| ✅ [Job Title B](LinkB)                 | 📅 Date Posted B   |
+
+
+### Grad '25
+
+- Regular Jobs
+
+| Employer                  | Location        | Positions                                 | Date Added         |
+|---------------------------|-----------------|-------------------------------------------|--------------------|
+| [Company X](LinkX)        | - Location X    | ✅ [Job Title X](LinkX)                 | 📅 Date Posted X   |
+| [Company Y](LinkY)        | - Location Y    | ✅ [Job Title Y](LinkY)                 | 📅 Date Posted Y   |
+
+- International Jobs
+
+| Employer                  | Location        | Country     | Positions                                 | Date Added         |
+|---------------------------|-----------------|-------------|-------------------------------------------|--------------------|
+| [Company A](LinkA)        | - Location A    | 🌏 Country A| ✅ [Job Title A](LinkA)                 | 📅 Date Posted A   |
+| [Company B](LinkB)        | - Location B    | 🌏 Country B| ✅ [Job Title B](LinkB)                 | 📅 Date Posted B   |
+
+### Grad '23-earlier
+
+- Regular Jobs
+
+| Employer                  | Location        | Positions                                 | Date Added         |
+|---------------------------|-----------------|-------------------------------------------|--------------------|
+| [Company X](LinkX)        | - Location X    | ✅ [Job Title X](LinkX)                 | 📅 Date Posted X   |
+| [Company Y](LinkY)        | - Location Y    | ✅ [Job Title Y](LinkY)                 | 📅 Date Posted Y   |
+
+- International Jobs
+
+| Employer                  | Location        | Country     | Positions                                 | Date Added         |
+|---------------------------|-----------------|-------------|-------------------------------------------|--------------------|
+| [Company A](LinkA)        | - Location A    | 🌏 Country A| ✅ [Job Title A](LinkA)                 | 📅 Date Posted A   |
+| [Company B](LinkB)        | - Location B    | 🌏 Country B| ✅ [Job Title B](LinkB)                 | 📅 Date Posted B   |
