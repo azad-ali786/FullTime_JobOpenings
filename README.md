@@ -44,7 +44,9 @@ This provides instructions on how to run the Python code that extracts job infor
   - **Pagination (Optional)**: By default, the code retrieves a limited number of search results from Google. If you want to retrieve more results, you can modify the num_pages variable in the code to specify the number of pages of search results you want to fetch.
   - **Exit the Code**: You can exit the code execution by pressing Ctrl+C in the terminal or command prompt.
 
-  ***Please note that the code relies on Google search results, and the availability of job listings may vary depending on Google's search results and website changes.***
+  ***Note: You can change search for different role by changing the search_query = 'site:lever.co OR site:greenhouse.io "Job Role"'. e.g. search_query = 'site:lever.co OR site:greenhouse.io "Associate Software Engineer"' or search_query = 'site:lever.co OR site:greenhouse.io "SDE Intern"', etc. Feel free to experiment as per your needs and don't forget to have fun.🎮***
+
+  ***Please note that the code relies on Google search results, and the availability of job listings may vary depending on Google's search results and website changes.🍕***
 ## Resources
 
 If you're seeking guidance on how to prepare for technical interviews, you might find these resources helpful:
@@ -67,6 +69,8 @@ If you're seeking guidance on how to prepare for technical interviews, you might
 
 - **[Resume Example](https://www.overleaf.com/latex/templates/modern-deedy/cxtjgrmpsrvh)**
   * This ATS friendly resume provides an example of an effective and well-structured resume format. It includes sections for contact information, summary or objective, work experience, education, skills, and more. You can use it as a reference to create your own professional resume. Additionally, you can view a my resume created using this format [here](https://drive.google.com/file/d/1OAmU02WNjXTY-uRYj_0d_QkcgQGNAVYr/view?usp=sharing).
+
+- If you need personal mentorship, feel free to ping me on [LinkedIn](https://www.linkedin.com/in/azad-ali-49274a1a0/)
 
 ## For International Jobs
 
