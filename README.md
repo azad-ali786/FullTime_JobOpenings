@@ -9,10 +9,42 @@ Hello and welcome! 🌟 This is a list of awesome full-time job / internship ope
 ***This project was inspired from [Daniel Maya](https://github.com/ReaVNaiL)***
 
 ## Table of Contents
-1. [Explore Job Listings ⬇️](README.md#jobs)
-2. [Useful Resources 🎯](README.md#resources)
-3. [How to Get Involved 💬](Contribution.md)
+2. [Explore Job Listings ⬇️](README.md#jobs)
+3. [Useful Resources 🎯](README.md#resources)
+4. [How to Get Involved 💬](Contribution.md)
 
+## Running the job scrapper
+This provides instructions on how to run the Python code that extracts job information from Lever and Greenhouse job listings.
+
+  ### Prerequisites
+
+  Before running the code, make sure you have the following prerequisites installed on your system:
+
+  - Python 3.x: You can download and install Python from the official Python website (https://www.python.org/downloads/).
+
+  - Required Python Packages: Ensure you have the necessary Python packages installed by running the following command in your terminal or command prompt:
+
+    ```bash
+    pip install requests beautifulsoup4
+    pip install requests request
+    ```
+    ***If you getting warning while installing, add --user at the end of the command*** 
+
+  ### Running the Code
+
+  - **Navigate to the Code Directory**: Use the cd command to navigate to the directory where the code file is located.
+    ```bash
+    cd scraper
+    ```
+  - **Run the Code**: Execute the Python code using the following command:
+    ```bash
+    python job_scraper.py
+    ```
+  - **Review the Output**: The code will start running and display the job roles, company names, and URLs for both Lever and Greenhouse job listings. The results will be printed in the terminal or command prompt.
+  - **Pagination (Optional)**: By default, the code retrieves a limited number of search results from Google. If you want to retrieve more results, you can modify the num_pages variable in the code to specify the number of pages of search results you want to fetch.
+  - **Exit the Code**: You can exit the code execution by pressing Ctrl+C in the terminal or command prompt.
+
+  ***Please note that the code relies on Google search results, and the availability of job listings may vary depending on Google's search results and website changes.***
 ## Resources
 
 If you're seeking guidance on how to prepare for technical interviews, you might find these resources helpful:
