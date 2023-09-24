@@ -23,7 +23,7 @@ If you've got the scoop on a fantastic job or internship, follow these friendly 
 
     - Here's the format:
     ```bash
-    | [Employer Name](Employer_Link) | - Location | Positions | Date Added |
+    | [Company A](LinkA)        | - Location A    | 🌏 Country A| ✅ [Job Title A](LinkA)                 | 📅 Date Posted A   |
     ```
 
     ***Replace the placeholders with the real deal.***
