@@ -98,6 +98,7 @@ If you're seeking guidance on how to prepare for technical interviews, you might
 
 | Employer                  | Location        | Positions                                 | Date Added         |
 |---------------------------|-----------------|-------------------------------------------|--------------------|
+| [Myntra](https://life.myntra.com/)        | Bangalore, Karnataka   | ✅ [Software Engineer](https://careers.myntra.com/job-detail/?id=6943806002)                 | 📅 09/25/2023   |
 | [Altair](https://altair.com/#xd_co_f=Mjg5YzRkYjI4N2RmZGEwMjA2YjE2OTU1NjM0OTAwNjY=~)        | -   | ✅ [Software Development Engineer](https://phh.tbe.taleo.net/phh01/ats/careers/v2/viewRequisition?org=ALTAENGI&cws=39&rid=44326)                 | 📅 09/19/2023   |
 | [Grab](https://grab.wd3.myworkdayjobs.com/en-US/Careers)        | -   | ✅ [Fullstack Engineer](https://grab.wd3.myworkdayjobs.com/en-US/Careers/job/South-Quarter/Fullstack-Engineer--React---Fulfillment_R-2023-9-0002?source=LinkedIn)                 | 📅 09/19/2023   |
 | [General digital](-)        | -   | ✅ [Software Engineer](https://docs.google.com/forms/d/1oPeD_ljj4ce-HAvxAlFjbySGspdgeTWZEBZhlW8Zg-Q/viewform?edit_requested=true)                 | 📅 09/19/2023   |
