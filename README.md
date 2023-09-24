@@ -20,10 +20,10 @@ If you're seeking guidance on how to prepare for technical interviews, you might
 - **[Cracking the Coding Interview](http://www.crackingthecodinginterview.com/)** by **Gayle Laakmann McDowell**:
   * A comprehensive book that provides guidance on how to prepare for technical interviews, covering essential topics like data structures, algorithms, and problem-solving techniques. It includes detailed explanations, example problems, and solutions to help you practice and excel in coding interviews.
 
-  - **[Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview)** on **Educative**:
+- **[Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview)** on **Educative**:
   * A comprehensive course that covers the key aspects of system design interviews. It provides a structured approach to understanding and mastering system design concepts, with interactive diagrams and real-world examples to help you prepare for system design interviews.
 
-  - **[Blind 75](https://leetcode.com/list/xi4ci4ig/)** on **LeetCode**:
+- **[Blind 75](https://leetcode.com/list/xi4ci4ig/)** on **LeetCode**:
   * A curated list of 75 frequently asked coding interview questions, often discussed on Blind, a popular platform for tech professionals. These questions cover a wide range of topics, including data structures, algorithms, and system design, making it a valuable resource for interview preparation.
 
 - **Striver's DSA Playlist on YouTube**:
