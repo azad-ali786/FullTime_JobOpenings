@@ -6,7 +6,7 @@ from urllib.parse import urlparse, parse_qs
 search_query = 'site:lever.co OR site:greenhouse.io "Software Development Engineer"'
 
 # Define the number of pages of search results to retrieve
-num_pages = 4 
+num_pages = 1
 
 for page in range(num_pages):
     google_search_url = f"https://www.google.com/search?q={search_query}&start={page * 10}"
