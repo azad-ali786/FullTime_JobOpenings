@@ -6,6 +6,8 @@ Hello and welcome! 🌟 This is a list of awesome full-time job / internship ope
 
 🤝 **We welcome contributions from the community!** Feel free to submit a pull request, and we'll incorporate your updates.
 
+***This project was inspired from [Daniel Maya](https://github.com/ReaVNaiL)***
+
 ## Table of Contents
 1. [Explore Job Listings ⬇️](README.md#jobs)
 2. [Useful Resources 🎯](README.md#resources)
