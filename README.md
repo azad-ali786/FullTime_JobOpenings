@@ -1,8 +1,6 @@
 | Employer | Role | URL |
 | --- | --- | --- |
-| zerofox | Software Development Engineer | https://jobs.lever.co/zerofox/2780cf05-04a9-4c91-8180-9f3e9feb9719 |
-| ShipBob, Inc. | Software Development Engineer III | https://boards.greenhouse.io/shipbobinc/jobs/4325221005 |
-| Roadie | Software Development Engineer in Test | https://boards.greenhouse.io/roadie/jobs/6919343002 |
+| LivePerson | SDE Intern | https://boards.greenhouse.io/liveperson/jobs/5294082?utm_source=Simplify&ref=Simplify |
 | upstox | SDE Intern (2023-2024) | https://jobs.lever.co/upstox/e15b9350-848e-4840-808b-94d557e35d3b |
 | upstox | SDE Intern (2023-2024) | https://jobs.lever.co/upstox/e15b9350-848e-4840-808b-94d557e35d3b/apply |
 | netomi | SDE II - Frontend | https://jobs.lever.co/netomi/95525f26-e018-4984-81e5-bb5e3a1363fa |
