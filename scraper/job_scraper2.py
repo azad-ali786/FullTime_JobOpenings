@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import re
 from urllib.parse import urlparse, parse_qs
 
-search_query = 'site:lever.co OR site:greenhouse.io "Software Development Engineer"'
+search_query = 'site:lever.co OR site:greenhouse.io "SDE Intern"'
 
 # Define the number of pages of search results to retrieve
 num_pages = 1
@@ -57,6 +57,7 @@ for page in range(num_pages):
                             job_role = job_title_element.text.strip()
                             company = company_element
                             job_data.append((company, job_role, actual_url))
+                
 
 # Reading the existing content of the README.md file
 with open('../README.md', 'r') as readme_file:

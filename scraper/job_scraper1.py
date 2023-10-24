@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import re
 from urllib.parse import urlparse, parse_qs
 
-search_query = 'site:lever.co OR site:greenhouse.io "Software Development Engineer"'
+search_query = 'site:lever.co OR site:greenhouse.io "Software Engineering Intern"'
 
 # Define the number of pages of search results to retrieve
 num_pages = 1
@@ -75,4 +75,4 @@ new_content = existing_content[:insert_position] + "\n" + new_job_data + existin
 with open('../README.md', 'w') as readme_file:
     readme_file.write(new_content)
 
-print("New data written to README.md file below the table header.")
+print("New data written to README.md file.")
