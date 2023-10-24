@@ -41,8 +41,7 @@ for page in range(num_pages):
                 parsed_url = urlparse(url)
                 actual_url = parse_qs(parsed_url.query).get('q', [''])[0]
                 parts = actual_url.split('/')
-                job_id = parts[-1]
-                if job_id:
+                if len(parts)>4:
                     response = requests.get(actual_url)
                     if response.status_code == 200:
                         soup = BeautifulSoup(response.text, "html.parser")
