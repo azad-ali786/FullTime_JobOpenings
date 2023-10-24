@@ -1,3 +1,4 @@
+[![scraper-automation](https://github.com/azad-ali786/Job_Openings/actions/workflows/scraper-automation.yml/badge.svg)](https://github.com/azad-ali786/Job_Openings/actions/workflows/scraper-automation.yml)
 | Employer | Role | URL |
 | --- | --- | --- |
 | LivePerson | SDE Intern | https://boards.greenhouse.io/liveperson/jobs/5294082?utm_source=Simplify&ref=Simplify |
