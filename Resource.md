@@ -77,9 +77,3 @@ If you're seeking guidance on how to prepare for technical interviews, you might
   * Check if a company has sponsored H1B candidates previously.
 - **[e-verify.gov](https://www.e-verify.gov)**
   * Verify if a company is e-verified, allowing for F-1 OPT STEM extension of 24 months.
-
-## Jobs
-
-| Employer                  | Role                     |      Date Added         |
-|---------------------------|--------------------------|-------------------------|
-| Company Name              | ✅ [Job Title A](LinkA)  |     📅 Date Posted X     |
