@@ -58,7 +58,7 @@ for page in range(num_pages):
                             job_data.append((company, job_role, actual_url))
 
 # Reading the existing content of the README.md file
-with open('../README.md', 'r') as readme_file:
+with open('README.md', 'r') as readme_file:
     existing_content = readme_file.read()
 
 # Creating a string out of job data
@@ -71,7 +71,7 @@ insert_position = existing_content.index("| Employer | Role | URL |\n| --- | ---
 new_content = existing_content[:insert_position] + "\n" + new_job_data + existing_content[insert_position:]
 
 # Writes the updated content back to the README.md file
-with open('../README.md', 'w') as readme_file:
+with open('.README.md', 'w') as readme_file:
     readme_file.write(new_content)
 
 print("New data written to README.md file.")

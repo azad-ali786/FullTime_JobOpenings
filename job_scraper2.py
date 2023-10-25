@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import re
 from urllib.parse import urlparse, parse_qs
 
-search_query = 'site:lever.co OR site:greenhouse.io "Software Development Engineer"'
+search_query = 'site:lever.co OR site:greenhouse.io "SDE Intern"'
 
 # Define the number of pages of search results to retrieve
 num_pages = 1
@@ -42,6 +42,7 @@ for page in range(num_pages):
                 actual_url = parse_qs(parsed_url.query).get('q', [''])[0]
                 parts = actual_url.split('/')
                 if len(parts)>4:
+                    print(actual_url)
                     response = requests.get(actual_url)
                     if response.status_code == 200:
                         soup = BeautifulSoup(response.text, "html.parser")
@@ -56,9 +57,10 @@ for page in range(num_pages):
                             job_role = job_title_element.text.strip()
                             company = company_element
                             job_data.append((company, job_role, actual_url))
+                
 
 # Reading the existing content of the README.md file
-with open('../README.md', 'r') as readme_file:
+with open('README.md', 'r') as readme_file:
     existing_content = readme_file.read()
 
 # Creating a string out of job data
@@ -71,7 +73,7 @@ insert_position = existing_content.index("| Employer | Role | URL |\n| --- | ---
 new_content = existing_content[:insert_position] + "\n" + new_job_data + existing_content[insert_position:]
 
 # Writes the updated content back to the README.md file
-with open('../README.md', 'w') as readme_file:
+with open('README.md', 'w') as readme_file:
     readme_file.write(new_content)
 
 print("New data written to README.md file below the table header.")
