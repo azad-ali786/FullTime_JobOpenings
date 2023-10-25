@@ -29,6 +29,7 @@ jobs:
           EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
           EMAIL_RECIPIENT: ${{ secrets.EMAIL_RECIPIENT }}
         run: | 
+           ls
            python scraper/job_scraper.py
            python scraper/job_scraper2.py
            python scraper/job_scraper3.py
