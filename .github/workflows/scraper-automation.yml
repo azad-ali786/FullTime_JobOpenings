@@ -29,7 +29,7 @@ jobs:
           EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
           EMAIL_RECIPIENT: ${{ secrets.EMAIL_RECIPIENT }}
         run: | 
-           python job_scraper.py
+           python job_scraper1.py
            python job_scraper2.py
            python job_scraper3.py
           

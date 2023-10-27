@@ -12,7 +12,12 @@ job_data = []  # List of jobs
 for page in range(num_pages):
     google_search_url = f"https://www.google.com/search?q={search_query}&start={page * 10}"
 
-    response = requests.get(google_search_url)
+    try:
+        response = requests.get(google_search_url)
+        response.raise_for_status()  # Check for HTTP errors
+    except requests.exceptions.RequestException as e:
+        print(f"Error while making the request: {e}")
+        continue
 
     if response.status_code == 200:
         soup = BeautifulSoup(response.text, "html.parser")
@@ -27,7 +32,13 @@ for page in range(num_pages):
                 parsed_url = urlparse(url)
                 actual_url = parse_qs(parsed_url.query).get('q', [''])[0]
                 if "jobs" in actual_url:
-                    response = requests.get(actual_url)
+                    try:
+                        response = requests.get(actual_url)
+                        response.raise_for_status()
+                    except requests.exceptions.RequestException as e:
+                        print(f"Error while fetching the greenhouse.io job page: {e}")
+                        continue
+
                     if response.status_code == 200:
                         soup = BeautifulSoup(response.text, "html.parser")
                         job_title_element = soup.find("h1", class_="app-title")
@@ -36,13 +47,20 @@ for page in range(num_pages):
                         if job_title_element is not None and company_element is not None:
                             job_role = job_title_element.text.strip()
                             company = company_element.text.strip().replace("at ", "")
-                            job_data.append((company, job_role, actual_url))           
+                            job_data.append((company, job_role, actual_url))
+
             if lever_pattern.search(url):
                 parsed_url = urlparse(url)
                 actual_url = parse_qs(parsed_url.query).get('q', [''])[0]
                 parts = actual_url.split('/')
-                if len(parts)>4:
-                    response = requests.get(actual_url)
+                if len(parts) > 4:
+                    try:
+                        response = requests.get(actual_url)
+                        response.raise_for_status()
+                    except requests.exceptions.RequestException as e:
+                        print(f"Error while fetching the lever.co job page: {e}")
+                        continue
+
                     if response.status_code == 200:
                         soup = BeautifulSoup(response.text, "html.parser")
                         job_title_element = soup.find("h2")
@@ -74,4 +92,4 @@ new_content = existing_content[:insert_position] + "\n" + new_job_data + existin
 with open('README.md', 'w') as readme_file:
     readme_file.write(new_content)
 
-print("New data written to README.md file below the table header.")
+print(f"Added {len(new_job_data)} new jobs to README.md file below the table header.")

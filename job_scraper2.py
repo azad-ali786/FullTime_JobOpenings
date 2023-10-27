@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import re
 from urllib.parse import urlparse, parse_qs
 
-search_query = 'site:lever.co OR site:greenhouse.io "SDE Intern"'
+search_query = 'site:lever.co OR site:greenhouse.io "Software Development Engineer"'
 
 # Define the number of pages of search results to retrieve
 num_pages = 1
@@ -12,7 +12,12 @@ job_data = []  # List of jobs
 for page in range(num_pages):
     google_search_url = f"https://www.google.com/search?q={search_query}&start={page * 10}"
 
-    response = requests.get(google_search_url)
+    try:
+        response = requests.get(google_search_url)
+        response.raise_for_status()  # Check for HTTP errors
+    except requests.exceptions.RequestException as e:
+        print(f"Error while making the request: {e}")
+        continue
 
     if response.status_code == 200:
         soup = BeautifulSoup(response.text, "html.parser")
@@ -27,7 +32,13 @@ for page in range(num_pages):
                 parsed_url = urlparse(url)
                 actual_url = parse_qs(parsed_url.query).get('q', [''])[0]
                 if "jobs" in actual_url:
-                    response = requests.get(actual_url)
+                    try:
+                        response = requests.get(actual_url)
+                        response.raise_for_status()
+                    except requests.exceptions.RequestException as e:
+                        print(f"Error while fetching the greenhouse.io job page: {e}")
+                        continue
+
                     if response.status_code == 200:
                         soup = BeautifulSoup(response.text, "html.parser")
                         job_title_element = soup.find("h1", class_="app-title")
@@ -36,14 +47,20 @@ for page in range(num_pages):
                         if job_title_element is not None and company_element is not None:
                             job_role = job_title_element.text.strip()
                             company = company_element.text.strip().replace("at ", "")
-                            job_data.append((company, job_role, actual_url))           
+                            job_data.append((company, job_role, actual_url))
+
             if lever_pattern.search(url):
                 parsed_url = urlparse(url)
                 actual_url = parse_qs(parsed_url.query).get('q', [''])[0]
                 parts = actual_url.split('/')
-                if len(parts)>4:
-                    print(actual_url)
-                    response = requests.get(actual_url)
+                if len(parts) > 4:
+                    try:
+                        response = requests.get(actual_url)
+                        response.raise_for_status()
+                    except requests.exceptions.RequestException as e:
+                        print(f"Error while fetching the lever.co job page: {e}")
+                        continue
+
                     if response.status_code == 200:
                         soup = BeautifulSoup(response.text, "html.parser")
                         job_title_element = soup.find("h2")
@@ -57,23 +74,39 @@ for page in range(num_pages):
                             job_role = job_title_element.text.strip()
                             company = company_element
                             job_data.append((company, job_role, actual_url))
-                
 
 # Reading the existing content of the README.md file
 with open('README.md', 'r') as readme_file:
     existing_content = readme_file.read()
 
-# Creating a string out of job data
-new_job_data = "\n".join([f"| {company} | {job_role} | {actual_url} |" for company, job_role, actual_url in job_data])
-
 # Finding the position for inserting the new data (below the table header)
 insert_position = existing_content.index("| Employer | Role | URL |\n| --- | --- | --- |") + len("| Employer | Role | URL |\n| --- | --- | --- |")
 
-# Inserting the new job data below the header in the existing content
+# Read 40 lines below the insert_position
+lines_to_check = existing_content[insert_position:].split('\n')[:40]
+
+# Extract existing URLs from the lines to check
+existing_urls = [line.split('|')[2].strip() for line in lines_to_check if line.strip()]
+
+# Creating a set for faster URL lookup
+existing_urls_set = set(existing_urls)
+
+# Initialize a list to store new job data that needs to be added
+new_job_data_to_add = []
+
+# Loop through the new job data and check if the URL is not already in the existing data
+for company, job_role, actual_url in job_data:
+    if actual_url not in existing_urls_set:
+        new_job_data_to_add.append((company, job_role, actual_url))
+
+# Convert the new job data to a string
+new_job_data = "\n".join([f"| {company} | {job_role} | {actual_url} |" for company, job_role, actual_url in new_job_data_to_add])
+
+# Insert the new job data below the header in the existing content
 new_content = existing_content[:insert_position] + "\n" + new_job_data + existing_content[insert_position:]
 
 # Writes the updated content back to the README.md file
 with open('README.md', 'w') as readme_file:
     readme_file.write(new_content)
 
-print("New data written to README.md file below the table header.")
+print(f"Added {len(new_job_data_to_add)} new jobs to README.md file below the table header.")
