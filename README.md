@@ -5,6 +5,28 @@
 | Hiya | Senior Software Engineer (SDE III) | https://boards.greenhouse.io/hiya/jobs/5785635003 |
 | Varis - United States | SDE | https://boards.greenhouse.io/varisunitedstates/jobs/4085827005 |
 | LivePerson | SDE Intern | https://boards.greenhouse.io/liveperson/jobs/5294082 |
+| CloudSEK | SDE - Backend - Intern | https://boards.greenhouse.io/cloudsek/jobs/4435370004 |
+| netomi | SDE I - Frontend | https://jobs.lever.co/netomi/193837bd-9cb4-4518-83f8-d59c02e7b960 |
+| LivePerson | Frontend Engineer (SDE II) | https://boards.greenhouse.io/liveperson/jobs/5397826 |
+| LivePerson | SDE I - Java Backend Engineer | https://boards.greenhouse.io/liveperson/jobs/5369169 |
+| Qumulo Careers | Software Development Engineer: Entry-Level, 2024 | https://boards.greenhouse.io/qumulo/jobs/5427091 |
+| HackerRank | Software Development Engineer II - Backend (Infrastructure) (Remote) | https://boards.greenhouse.io/hackerrank/jobs/5128049?gh_jid=5128049 |
+| GoCardless | Software Development Engineer | https://boards.greenhouse.io/gocardless/jobs/5456304 |
+| Find Your Fun | Senior Software Development Engineer | https://boards.greenhouse.io/findyourfun/jobs/6957384002 |
+| MotorTrend Group | Software Development Engineer III, Web | https://boards.greenhouse.io/motortrendgroup/jobs/5784727003 |
+| Flexport | Software Development Engineer II, SMB | https://boards.greenhouse.io/flexport/jobs/5432196 |
+| Mapbox | Software Development Engineer II, Delivery Intelligence | https://boards.greenhouse.io/mapbox/jobs/5296862?gh_jid=5296862 |
+| SpaceX | Software Engineer (Starlink) | https://boards.greenhouse.io/spacex/jobs/6893374002?gh_jid=6893374002&ref=levels.fyi&utm_source=levels.fyi |
+| DoorDash | Software Engineer, Product | https://boards.greenhouse.io/doordash/jobs/2335666?gh_jid=2335666 |
+| Samsara | Software Engineer (New Grad) | https://boards.greenhouse.io/samsara/jobs/5273880?gh_jid=5273880 |
+| palantir | Software Engineer, Internship | https://jobs.lever.co/palantir/e27af7ab-41fc-40c9-b31d-02c6cb1c505c |
+| Figma | Software Engineer - Early Career (2024) | https://boards.greenhouse.io/figma/jobs/4941380004 |
+| Notion | Software Engineer, Serving Infrastructure | https://boards.greenhouse.io/notion/jobs/5794431003 |
+| Alchemy | Software Engineer (New Grad) | https://boards.greenhouse.io/alchemy/jobs/4330447005 |
+| DoorDash | SDE II, iOS | https://boards.greenhouse.io/doordash/jobs/4957935?gh_jid=4957935&gh_src=7fd7129c1us |
+| Hiya | Senior Software Engineer (SDE III) | https://boards.greenhouse.io/hiya/jobs/5785635003 |
+| Varis - United States | SDE | https://boards.greenhouse.io/varisunitedstates/jobs/4085827005 |
+| LivePerson | SDE Intern | https://boards.greenhouse.io/liveperson/jobs/5294082 |
 | netomi | SDE I - Frontend | https://jobs.lever.co/netomi/193837bd-9cb4-4518-83f8-d59c02e7b960 |
 | upstox | SDE Intern (2023-2024) | https://jobs.lever.co/upstox/e15b9350-848e-4840-808b-94d557e35d3b |
 | LivePerson | SDE I - Java Backend Engineer | https://boards.greenhouse.io/liveperson/jobs/5369169 |
