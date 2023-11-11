@@ -4,6 +4,28 @@
 | Hiya | Senior Software Engineer (SDE III) | https://boards.greenhouse.io/hiya/jobs/5785635003 |
 | DoorDash | SDE II, iOS | https://boards.greenhouse.io/doordash/jobs/4957935?gh_jid=4957935&gh_src=7fd7129c1us |
 | Varis - United States | SDE | https://boards.greenhouse.io/varisunitedstates/jobs/4085827005 |
+| Jasper | Devops Engineer (SDE II) | https://boards.greenhouse.io/jasper/jobs/7000644002 |
+| LivePerson | SDE Intern | https://boards.greenhouse.io/liveperson/jobs/5294082 |
+| DoorDash | SDE II, Android | https://boards.greenhouse.io/doordash/jobs/4957860?gh_jid=4957860 |
+| netomi | SDE I - Frontend | https://jobs.lever.co/netomi/193837bd-9cb4-4518-83f8-d59c02e7b960 |
+| quince | SDE 2 | https://jobs.lever.co/quince/807cb604-a6f4-4eb4-a0c8-55f64bddc911 |
+| LivePerson | Frontend Engineer (SDE II) | https://boards.greenhouse.io/liveperson/jobs/5397826 |
+| netomi | SDE II - Frontend | https://jobs.lever.co/netomi/95525f26-e018-4984-81e5-bb5e3a1363fa |
+| Qumulo Careers | Software Development Engineer: Entry-Level, 2024 | https://boards.greenhouse.io/qumulo/jobs/5427091 |
+| SPAN | Software Development Engineer in Test (SDET) | https://boards.greenhouse.io/spanio/jobs/5748956003 |
+| Wizards of the Coast | Sr. Software Development Engineer, DevOps (D&D Beyond) | https://boards.greenhouse.io/wizardsofthecoast/jobs/6966925002 |
+| Roadie | Software Development Engineer in Test | https://boards.greenhouse.io/roadie/jobs/6919343002 |
+| HackerRank | Software Development Engineer II - Backend (Infrastructure) (Remote) | https://boards.greenhouse.io/hackerrank/jobs/5128049?gh_jid=5128049 |
+| SpaceX | Software Engineer (Starlink) | https://boards.greenhouse.io/spacex/jobs/6893374002?gh_jid=6893374002 |
+| SpaceX | Application Software Engineer | https://boards.greenhouse.io/spacex/jobs/6899923002?gh_jid=6899923002 |
+| Figma | Software Engineer - Early Career (2024) | https://boards.greenhouse.io/figma/jobs/4941380004 |
+| goforward | Software Engineer, Full Stack (Entry Level) | https://jobs.lever.co/goforward/073d1961-b3fd-4515-a7a4-a34a2eedb74a?lever-source=ForwardJobsLP |
+| palantir | Software Engineer, New Grad - US Government | https://jobs.lever.co/palantir/19d5e5f8-37a6-4a6f-b2ca-423370b3a1c2 |
+| DoorDash | Software Engineer, Product | https://boards.greenhouse.io/doordash/jobs/2335666?gh_jid=2335666 |
+| Alchemy | Software Engineer (New Grad) | https://boards.greenhouse.io/alchemy/jobs/4330447005 |
+| Hiya | Senior Software Engineer (SDE III) | https://boards.greenhouse.io/hiya/jobs/5785635003 |
+| DoorDash | SDE II, iOS | https://boards.greenhouse.io/doordash/jobs/4957935?gh_jid=4957935&gh_src=7fd7129c1us |
+| Varis - United States | SDE | https://boards.greenhouse.io/varisunitedstates/jobs/4085827005 |
 | Jasper | Devops Engineer (SDE II) | https://boards.greenhouse.io/jasper/jobs/7000644002?utm_source=General+Catalyst+job+board&utm_medium=getro.com&gh_src=General+Catalyst+job+board |
 | LivePerson | SDE Intern | https://boards.greenhouse.io/liveperson/jobs/5294082 |
 | netomi | SDE I - Frontend | https://jobs.lever.co/netomi/193837bd-9cb4-4518-83f8-d59c02e7b960 |
