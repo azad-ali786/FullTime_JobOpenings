@@ -1,6 +1,30 @@
 [![scraper-automation](https://github.com/azad-ali786/Job_Openings/actions/workflows/scraper-automation.yml/badge.svg)](https://github.com/azad-ali786/Job_Openings/actions/workflows/scraper-automation.yml)
 | Employer | Role | URL |
 | --- | --- | --- |
+| DoorDash | SDE II, iOS | https://boards.greenhouse.io/doordash/jobs/4957935?gh_jid=4957935&gh_src=7fd7129c1us |
+| Varis - United States | SDE | https://boards.greenhouse.io/varisunitedstates/jobs/4085827005 |
+| Hiya | Senior Software Engineer (SDE III) | https://boards.greenhouse.io/hiya/jobs/5785635003 |
+| Jasper | Devops Engineer (SDE II) | https://boards.greenhouse.io/jasper/jobs/7000644002 |
+| LivePerson | SDE Intern | https://boards.greenhouse.io/liveperson/jobs/5294082 |
+| DoorDash | SDE II, Android | https://boards.greenhouse.io/doordash/jobs/4957860?gh_jid=4957860 |
+| quince | SDE 2 | https://jobs.lever.co/quince/807cb604-a6f4-4eb4-a0c8-55f64bddc911 |
+| LivePerson | Frontend Engineer (SDE II) | https://boards.greenhouse.io/liveperson/jobs/5397826 |
+| netomi | SDE I - Frontend | https://jobs.lever.co/netomi/193837bd-9cb4-4518-83f8-d59c02e7b960 |
+| netomi | SDE II - Frontend | https://jobs.lever.co/netomi/95525f26-e018-4984-81e5-bb5e3a1363fa |
+| Qumulo Careers | Software Development Engineer: Entry-Level, 2024 | https://boards.greenhouse.io/qumulo/jobs/5427091 |
+| SPAN | Software Development Engineer in Test (SDET) | https://boards.greenhouse.io/spanio/jobs/5748956003 |
+| Wizards of the Coast | Sr. Software Development Engineer, DevOps (D&D Beyond) | https://boards.greenhouse.io/wizardsofthecoast/jobs/6966925002 |
+| Roadie | Software Development Engineer in Test | https://boards.greenhouse.io/roadie/jobs/6919343002 |
+| HackerRank | Software Development Engineer II - Backend (Infrastructure) (Remote) | https://boards.greenhouse.io/hackerrank/jobs/5128049?gh_jid=5128049 |
+| ShipBob, Inc. | Software Development Engineer III | https://boards.greenhouse.io/shipbobinc/jobs/4325221005 |
+| Sourcegraph | Software Engineer - Release | https://boards.greenhouse.io/sourcegraph91/jobs/4989014004 |
+| DoorDash | Software Engineer, Product | https://boards.greenhouse.io/doordash/jobs/2335666?gh_jid=2335666 |
+| SpaceX | Software Engineer (Starlink) | https://boards.greenhouse.io/spacex/jobs/6893374002?gh_jid=6893374002 |
+| SpaceX | Application Software Engineer | https://boards.greenhouse.io/spacex/jobs/6899923002?gh_jid=6899923002 |
+| Figma | Software Engineer - Early Career (2024) | https://boards.greenhouse.io/figma/jobs/4941380004 |
+| palantir | Software Engineer, Internship | https://jobs.lever.co/palantir/e27af7ab-41fc-40c9-b31d-02c6cb1c505c |
+| goforward | Software Engineer, Full Stack (Entry Level) | https://jobs.lever.co/goforward/073d1961-b3fd-4515-a7a4-a34a2eedb74a?lever-source=ForwardJobsLP |
+| weride | Software Engineer Intern,Spring/Summer 2024 | https://jobs.lever.co/weride/18ee06ad-a8a7-4bd9-9205-3f465f5068be |
 | Hiya | Senior Software Engineer (SDE III) | https://boards.greenhouse.io/hiya/jobs/5785635003 |
 | DoorDash | SDE II, iOS | https://boards.greenhouse.io/doordash/jobs/4957935?gh_jid=4957935&gh_src=7fd7129c1us |
 | Varis - United States | SDE | https://boards.greenhouse.io/varisunitedstates/jobs/4085827005 |
