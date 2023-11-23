@@ -79,34 +79,21 @@ for page in range(num_pages):
 with open('README.md', 'r') as readme_file:
     existing_content = readme_file.read()
 
+# Creating a string out of job data
+new_job_data = "\n".join([f"| {company} | {job_role} | {actual_url} |" for company, job_role, actual_url in job_data])
+
 # Finding the position for inserting the new data (below the table header)
 insert_position = existing_content.index("| Employer | Role | URL |\n| --- | --- | --- |") + len("| Employer | Role | URL |\n| --- | --- | --- |")
 
-# Read 40 lines below the insert_position
-lines_to_check = existing_content[insert_position:].split('\n')[:40]
-
-# Extract existing URLs from the lines to check
-existing_urls = [line.split('|')[2].strip() for line in lines_to_check if line.strip()]
-
-# Creating a set for faster URL lookup
-existing_urls_set = set(existing_urls)
-
-# Initialize a list to store new job data that needs to be added
-new_job_data_to_add = []
-
-# Loop through the new job data and check if the URL is not already in the existing data
-for company, job_role, actual_url in job_data:
-    if actual_url not in existing_urls_set:
-        new_job_data_to_add.append((company, job_role, actual_url))
-
-# Convert the new job data to a string
-new_job_data = "\n".join([f"| {company} | {job_role} | {actual_url} |" for company, job_role, actual_url in new_job_data_to_add])
-
-# Insert the new job data below the header in the existing content
+# Inserting the new job data below the header in the existing content
 new_content = existing_content[:insert_position] + "\n" + new_job_data + existing_content[insert_position:]
+
+# Limiting the number of lines to 100
+new_content_lines = new_content.split("\n")[:100]
+new_content = "\n".join(new_content_lines)
 
 # Writes the updated content back to the README.md file
 with open('README.md', 'w') as readme_file:
     readme_file.write(new_content)
 
-print(f"Added {len(new_job_data_to_add)} new jobs to README.md file below the table header.")
+print("New data written to README.md file.")
