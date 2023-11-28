@@ -1,6 +1,32 @@
 [![scraper-automation](https://github.com/azad-ali786/Job_Openings/actions/workflows/scraper-automation.yml/badge.svg)](https://github.com/azad-ali786/Job_Openings/actions/workflows/scraper-automation.yml)
 | Employer | Role | URL |
 | --- | --- | --- |
+| Hiya | Senior Software Engineer (SDE III) | https://boards.greenhouse.io/hiya/jobs/5785635003 |
+| Varis - United States | SDE | https://boards.greenhouse.io/varisunitedstates/jobs/4085827005 |
+| DoorDash | SDE II, Android | https://boards.greenhouse.io/doordash/jobs/4957860?gh_jid=4957860 |
+| DoorDash | SDE II, iOS | https://boards.greenhouse.io/doordash/jobs/4957935?gh_jid=4957935&gh_src=7fd7129c1us |
+| upstox | SDE Intern (2023-2024) | https://jobs.lever.co/upstox/e15b9350-848e-4840-808b-94d557e35d3b |
+| Jasper | Devops Engineer (SDE II) | https://boards.greenhouse.io/jasper/jobs/7000644002 |
+| LivePerson | Frontend Engineer (SDE II) | https://boards.greenhouse.io/liveperson/jobs/5397826 |
+| quince | SDE 2 | https://jobs.lever.co/quince/807cb604-a6f4-4eb4-a0c8-55f64bddc911 |
+| esper-3 | SDE-Software Development Engineer (Devops) | https://jobs.lever.co/esper-3/c8239a18-9eea-478f-991b-8a747b9960f1 |
+| Interface AI | SDE III - Backend | https://boards.greenhouse.io/interfaceai/jobs/4271874006 |
+| Qumulo Careers | Software Development Engineer: Entry-Level, 2024 | https://boards.greenhouse.io/qumulo/jobs/5427091 |
+| Thena | Careers | Software Development Engineer 1 (Front-End) | https://boards.greenhouse.io/thena/jobs/4119669007 |
+| Roadie | Software Development Engineer in Test | https://boards.greenhouse.io/roadie/jobs/6919343002 |
+| DriveWealth | Software Development Engineer 1 | https://boards.greenhouse.io/drivewealth/jobs/5308862003?gh_jid=5308862003 |
+| The Pokémon Company International | Software Development Engineer III Mulesoft/Java(WMS/OMS Integrations) | https://boards.greenhouse.io/pokemoncareers/jobs/5759599003 |
+| GoCardless | Software Development Engineer | https://boards.greenhouse.io/gocardless/jobs/5465617 |
+| GoCardless | Software Development Engineer | https://boards.greenhouse.io/gocardless/jobs/5459842 |
+| Prodigal | Software Development Engineer - Backend | https://boards.greenhouse.io/prodigal/jobs/4126877007 |
+| Sourcegraph | Software Engineer - Cody Strategy | https://boards.greenhouse.io/sourcegraph91/jobs/5004011004 |
+| Sourcegraph | Software Engineer - Release | https://boards.greenhouse.io/sourcegraph91/jobs/4989014004 |
+| Notion | Software Engineer, Fullstack | https://boards.greenhouse.io/notion/jobs/4779251003 |
+| palantir | Software Engineer, Internship | https://jobs.lever.co/palantir/e27af7ab-41fc-40c9-b31d-02c6cb1c505c |
+| DoorDash | Software Engineer, Product | https://boards.greenhouse.io/doordash/jobs/2335666?gh_jid=2335666 |
+| goforward | Software Engineer, Full Stack (Entry Level) | https://jobs.lever.co/goforward/073d1961-b3fd-4515-a7a4-a34a2eedb74a?lever-source=ForwardJobsLP |
+| Benchling | Software Engineer Intern (Summer 2024) | https://boards.greenhouse.io/benchling/jobs/5325466?gh_jid=5325466&gh_src=82f187471us |
+| Cloudflare | Software Engineer - Speed | https://boards.greenhouse.io/cloudflare/jobs/5466435?gh_jid=5466435 |
 | Jasper | Devops Engineer (SDE II) | https://boards.greenhouse.io/jasper/jobs/7000644002 |
 | Hiya | Senior Software Engineer (SDE III) | https://boards.greenhouse.io/hiya/jobs/5785635003 |
 | Varis - United States | SDE | https://boards.greenhouse.io/varisunitedstates/jobs/4085827005 |
@@ -72,29 +98,3 @@
 | DriveWealth | Software Development Engineer 1 | https://boards.greenhouse.io/drivewealth/jobs/5308862003?gh_jid=5308862003 |
 | Wizards of the Coast | Sr. Software Development Engineer, DevOps (D&D Beyond) | https://boards.greenhouse.io/wizardsofthecoast/jobs/6966925002 |
 | CommerceIQ | Software Development Engineer III (Gather Platform) | https://boards.greenhouse.io/commerceiq/jobs/5756165003 |
-| Wizards of the Coast | Lead Software Development Engineer (Arena) | https://boards.greenhouse.io/wizardsofthecoast/jobs/6950614002 |
-| MNTN | Software Development Engineer in Test | https://boards.greenhouse.io/mntn/jobs/5462869 |
-| Sourcegraph | Software Engineer - Cody Strategy | https://boards.greenhouse.io/sourcegraph91/jobs/5004011004 |
-| Sourcegraph | Software Engineer - Release | https://boards.greenhouse.io/sourcegraph91/jobs/4989014004 |
-| palantir | Software Engineer, New Grad - US Government | https://jobs.lever.co/palantir/19d5e5f8-37a6-4a6f-b2ca-423370b3a1c2 |
-| goforward | Software Engineer, Full Stack (Entry Level) | https://jobs.lever.co/goforward/073d1961-b3fd-4515-a7a4-a34a2eedb74a?lever-source=ForwardJobsLP |
-| Benchling | Software Engineer Intern (Summer 2024) | https://boards.greenhouse.io/benchling/jobs/5325466?gh_jid=5325466&gh_src=82f187471us |
-| DoorDash | Software Engineer, Product | https://boards.greenhouse.io/doordash/jobs/2335666?gh_jid=2335666 |
-| SpaceX | Software Engineer (Falcon) | https://boards.greenhouse.io/spacex/jobs/6963699002?gh_jid=6963699002 |
-| SpaceX | Application Software Engineer | https://boards.greenhouse.io/spacex/jobs/6899920002?gh_jid=6899920002 |
-| Jasper | Devops Engineer (SDE II) | https://boards.greenhouse.io/jasper/jobs/7000644002 |
-| Hiya | Senior Software Engineer (SDE III) | https://boards.greenhouse.io/hiya/jobs/5785635003 |
-| DoorDash | SDE II, Android | https://boards.greenhouse.io/doordash/jobs/4957860?gh_jid=4957860 |
-| Varis - United States | SDE | https://boards.greenhouse.io/varisunitedstates/jobs/4085827005 |
-| DoorDash | SDE II, iOS | https://boards.greenhouse.io/doordash/jobs/4957935?gh_jid=4957935&gh_src=7fd7129c1us |
-| dreamsports | SDE 2 - Backend | https://jobs.lever.co/dreamsports/c22d47fd-8af5-4e96-bb1b-e611f126fca1 |
-| LivePerson | Frontend Engineer (SDE II) | https://boards.greenhouse.io/liveperson/jobs/5397826 |
-| LivePerson | SDE I - Java Backend Engineer | https://boards.greenhouse.io/liveperson/jobs/5369169 |
-| esper-3 | SDE-Software Development Engineer (Devops) | https://jobs.lever.co/esper-3/c8239a18-9eea-478f-991b-8a747b9960f1 |
-| quince | SDE 2 | https://jobs.lever.co/quince/807cb604-a6f4-4eb4-a0c8-55f64bddc911 |
-| Qumulo Careers | Software Development Engineer: Entry-Level, 2024 | https://boards.greenhouse.io/qumulo/jobs/5427091 |
-| Thena | Careers | Software Development Engineer 1 (Front-End) | https://boards.greenhouse.io/thena/jobs/4119669007 |
-| Roadie | Software Development Engineer in Test | https://boards.greenhouse.io/roadie/jobs/6919343002 |
-| DriveWealth | Software Development Engineer 1 | https://boards.greenhouse.io/drivewealth/jobs/5308862003?gh_jid=5308862003 |
-| The Pokémon Company International | Software Development Engineer III Mulesoft/Java(WMS/OMS Integrations) | https://boards.greenhouse.io/pokemoncareers/jobs/5759599003 |
-| Wizards of the Coast | Sr. Software Development Engineer, DevOps (D&D Beyond) | https://boards.greenhouse.io/wizardsofthecoast/jobs/6966925002 |
