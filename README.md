@@ -1,6 +1,17 @@
 [![scraper-automation](https://github.com/azad-ali786/Job_Openings/actions/workflows/scraper-automation.yml/badge.svg)](https://github.com/azad-ali786/Job_Openings/actions/workflows/scraper-automation.yml)
 | Employer | Role | URL |
 | --- | --- | --- |
+
+
+
+
+
+
+
+
+
+
+
 | Hiya | Senior Software Engineer (SDE III) | https://boards.greenhouse.io/hiya/jobs/5785635003 |
 | Varis - United States | SDE | https://boards.greenhouse.io/varisunitedstates/jobs/4085827005 |
 | upstox | SDE Intern (2023-2024) | https://jobs.lever.co/upstox/e15b9350-848e-4840-808b-94d557e35d3b |
@@ -87,14 +98,3 @@
 | LivePerson | Frontend Engineer (SDE II) | https://boards.greenhouse.io/liveperson/jobs/5397826 |
 | esper-3 | SDE-Software Development Engineer (Devops) | https://jobs.lever.co/esper-3/c8239a18-9eea-478f-991b-8a747b9960f1 |
 | Interface AI | SDE III - Backend | https://boards.greenhouse.io/interfaceai/jobs/4271874006 |
-| quince | SDE 2 | https://jobs.lever.co/quince/807cb604-a6f4-4eb4-a0c8-55f64bddc911 |
-| Qumulo Careers | Software Development Engineer: Entry-Level, 2024 | https://boards.greenhouse.io/qumulo/jobs/5427091 |
-| Thena | Careers | Software Development Engineer 1 (Front-End) | https://boards.greenhouse.io/thena/jobs/4119669007 |
-| Roadie | Software Development Engineer in Test | https://boards.greenhouse.io/roadie/jobs/6919343002 |
-| DriveWealth | Software Development Engineer 1 | https://boards.greenhouse.io/drivewealth/jobs/5308862003?gh_jid=5308862003 |
-| The Pokémon Company International | Software Development Engineer III Mulesoft/Java(WMS/OMS Integrations) | https://boards.greenhouse.io/pokemoncareers/jobs/5759599003 |
-| GoCardless | Software Development Engineer | https://boards.greenhouse.io/gocardless/jobs/5465617 |
-| GoCardless | Software Development Engineer | https://boards.greenhouse.io/gocardless/jobs/5459842 |
-| Sourcegraph | Software Engineer - Cody Strategy | https://boards.greenhouse.io/sourcegraph91/jobs/5004011004 |
-| Sourcegraph | Software Engineer - Search Suite | https://boards.greenhouse.io/sourcegraph91/jobs/5006357004 |
-| Sourcegraph | Software Engineer - Release | https://boards.greenhouse.io/sourcegraph91/jobs/4989014004 |

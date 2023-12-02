@@ -8,6 +8,9 @@ search_query = 'site:lever.co OR site:greenhouse.io "Software Development Engine
 # Define the number of pages of search results to retrieve
 num_pages = 1
 
+# You can change your preference to show or hide the print statement.
+show_print = True
+
 job_data = []  # List of jobs
 for page in range(num_pages):
     google_search_url = f"https://www.google.com/search?q={search_query}&start={page * 10}"
@@ -81,6 +84,14 @@ with open('README.md', 'r') as readme_file:
 
 # Creating a string out of job data
 new_job_data = "\n".join([f"| {company} | {job_role} | {actual_url} |" for company, job_role, actual_url in job_data])
+
+## Prints the new data in a readable way if there is any new data
+if show_print:
+    print("New data was found: ")
+    print(" ")
+    new_job_data_print = list(enumerate([f"{i + 1}. Company: {company} | Job Role: {job_role} | URL: {actual_url} |" for
+                                    i, (company, job_role, actual_url) in enumerate(job_data)]))
+    print(new_job_data_print)
 
 # Finding the position for inserting the new data (below the table header)
 insert_position = existing_content.index("| Employer | Role | URL |\n| --- | --- | --- |") + len("| Employer | Role | URL |\n| --- | --- | --- |")
