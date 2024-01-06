@@ -12,6 +12,21 @@
 | Qumulo Careers | Software Development Engineer: Entry-Level, 2024 | https://boards.greenhouse.io/qumulo/jobs/5427091 |
 | Roadie | Software Development Engineer in Test | https://boards.greenhouse.io/roadie/jobs/6919343002 |
 | Easygo Gaming | Software Development Engineer | https://boards.greenhouse.io/easygo/jobs/4167176007 |
+| The Pokémon Company International | Software Development Engineer III | https://boards.greenhouse.io/pokemoncareers/jobs/5838387003 |
+| The Pokémon Company International | Software Development Engineer III Mulesoft/Java(WMS/OMS Integrations) | https://boards.greenhouse.io/pokemoncareers/jobs/5759599003 |
+| palantir | Software Engineer, New Grad | https://jobs.lever.co/palantir/94984771-0704-446c-88c6-91ce748f6d92 |
+| Skylight | Software Engineer | https://boards.greenhouse.io/skylighthq/jobs/4017408005?gh_jid=4017408005 |
+| DoorDash | SDE II, Android | https://boards.greenhouse.io/doordash/jobs/5519539?gh_jid=5519539&gh_src=7fd7129c1us |
+| Varis - United States | SDE | https://boards.greenhouse.io/varisunitedstates/jobs/4085827005 |
+| Hiya | Senior Software Engineer (SDE III) | https://boards.greenhouse.io/hiya/jobs/5785635003 |
+| mindtickle | SDE-II (Full-stack Developer) | https://jobs.lever.co/mindtickle/99df13d9-438c-49f3-861f-ebd104f74337 |
+| lucidmotors | SDE in Distributed Automation Test Framework | https://jobs.lever.co/lucidmotors/8e2f3899-979c-4d5b-85d5-75166caf2381 |
+| Interface AI | SDE III - Backend | https://boards.greenhouse.io/interfaceai/jobs/4271874006 |
+| Interface AI | SDE II - Engineering Delivery | https://boards.greenhouse.io/interfaceai/jobs/4254966006 |
+| DriveWealth | Software Development Engineer 1 | https://boards.greenhouse.io/drivewealth/jobs/5308862003?gh_jid=5308862003 |
+| Qumulo Careers | Software Development Engineer: Entry-Level, 2024 | https://boards.greenhouse.io/qumulo/jobs/5427091 |
+| Roadie | Software Development Engineer in Test | https://boards.greenhouse.io/roadie/jobs/6919343002 |
+| Easygo Gaming | Software Development Engineer | https://boards.greenhouse.io/easygo/jobs/4167176007 |
 | Thena | Careers | Software Development Engineer 1 (Back-End) | https://boards.greenhouse.io/thena/jobs/4145521007 |
 | The Pokémon Company International | Software Development Engineer III | https://boards.greenhouse.io/pokemoncareers/jobs/5838387003 |
 | palantir | Software Engineer, New Grad | https://jobs.lever.co/palantir/94984771-0704-446c-88c6-91ce748f6d92 |
@@ -83,18 +98,3 @@
 | Thena | Careers | Software Development Engineer 1 (Back-End) | https://boards.greenhouse.io/thena/jobs/4145521007 |
 | hims & hers | Software Engineer, Backend | https://boards.greenhouse.io/himshers/jobs/7015055002 |
 | Skylight | Software Engineer | https://boards.greenhouse.io/skylighthq/jobs/4017408005?gh_jid=4017408005 |
-| Netlify | Senior Software Engineer (Node/GraphQL) | https://boards.greenhouse.io/netlify/jobs/6975477002 |
-| DoorDash | SDE II, Android | https://boards.greenhouse.io/doordash/jobs/5519539?gh_jid=5519539&gh_src=7fd7129c1us |
-| Varis - United States | SDE | https://boards.greenhouse.io/varisunitedstates/jobs/4085827005 |
-| Hiya | Senior Software Engineer (SDE III) | https://boards.greenhouse.io/hiya/jobs/5785635003 |
-| Interface AI | SDE III - Backend | https://boards.greenhouse.io/interfaceai/jobs/4271874006 |
-| lucidmotors | SDE in Distributed Automation Test Framework | https://jobs.lever.co/lucidmotors/8e2f3899-979c-4d5b-85d5-75166caf2381 |
-| hiver | SDE 2  Frontend | https://jobs.lever.co/hiver/ab840b70-1340-4739-8ff7-26da69427336 |
-| Interface AI | SDE II - Engineering Delivery | https://boards.greenhouse.io/interfaceai/jobs/4254966006 |
-| MotorTrend Group | Software Development Engineer II, Web | https://boards.greenhouse.io/motortrendgroup/jobs/5784663003 |
-| Qumulo Careers | Software Development Engineer: Entry-Level, 2024 | https://boards.greenhouse.io/qumulo/jobs/5427091 |
-| DriveWealth | Software Development Engineer 1 | https://boards.greenhouse.io/drivewealth/jobs/5308862003?gh_jid=5308862003 |
-| The Pokémon Company International | Software Development Engineer (IC3) | https://boards.greenhouse.io/pokemoncareers/jobs/5838387003 |
-| Roadie | Software Development Engineer in Test | https://boards.greenhouse.io/roadie/jobs/6919343002 |
-| productiv | Software Development Engineer | https://jobs.lever.co/productiv/64cc4959-0512-44a0-9f84-82ce51dc76eb |
-| Mill | Software Development Engineer in Test Intern (Summer 2024) | https://boards.greenhouse.io/mill/jobs/4342189005 |
