@@ -1,6 +1,22 @@
 [![scraper-automation](https://github.com/azad-ali786/Job_Openings/actions/workflows/scraper-automation.yml/badge.svg)](https://github.com/azad-ali786/Job_Openings/actions/workflows/scraper-automation.yml)
 | Employer | Role | URL |
 | --- | --- | --- |
+| Varis - United States | SDE | https://boards.greenhouse.io/varisunitedstates/jobs/4085827005 |
+| Hiya | Senior Software Engineer (SDE III) | https://boards.greenhouse.io/hiya/jobs/5785635003 |
+| CommerceIQ | SDE II - UI | https://boards.greenhouse.io/commerceiq/jobs/5855882003 |
+| ID.me | SDE IV, Wallet Growth | https://boards.greenhouse.io/idme/jobs/5893267003 |
+| Interface AI | SDE III - Backend | https://boards.greenhouse.io/interfaceai/jobs/4271874006 |
+| CloudSEK | SDE I/II - Backend | https://boards.greenhouse.io/cloudsek/jobs/4969691004 |
+| quince | SDE 2 | https://jobs.lever.co/quince/807cb604-a6f4-4eb4-a0c8-55f64bddc911 |
+| ID.me | Software Development Engineer IV: Wallet Identity (HYBRID McLean, VA & San Jose, CA) | https://boards.greenhouse.io/idme/jobs/5758426003 |
+| reply | Software Development Engineer II | https://jobs.lever.co/reply/d5054664-e717-4c93-9a23-38cc26412060 |
+| Roadie | Software Development Engineer in Test | https://boards.greenhouse.io/roadie/jobs/6919343002 |
+| DriveWealth | Software Development Engineer 1 | https://boards.greenhouse.io/drivewealth/jobs/5308862003?gh_jid=5308862003 |
+| StockX | Software Development Engineer in Test | https://boards.greenhouse.io/stockx/jobs/7158692002 |
+| GoCardless | Software Development Engineer | https://boards.greenhouse.io/gocardless/jobs/5465617 |
+| Applied Intuition | Software Engineer - New Grad | https://boards.greenhouse.io/appliedintuition/jobs/4296158005 |
+| Acorns | Software Engineer (Intern) - Summer 2024 | https://boards.greenhouse.io/acorns/jobs/5693697 |
+| Skylight | Software Engineer | https://boards.greenhouse.io/skylighthq/jobs/4017408005?gh_jid=4017408005 |
 | LivePerson | Software Development Engineer (SDE) | https://boards.greenhouse.io/liveperson/jobs/5686915?t=d45c82b41us |
 | Varis - United States | SDE | https://boards.greenhouse.io/varisunitedstates/jobs/4085827005 |
 | Hiya | Senior Software Engineer (SDE III) | https://boards.greenhouse.io/hiya/jobs/5785635003 |
@@ -82,19 +98,3 @@
 | CommerceIQ | Software Development Engineer- I (RMM) | https://boards.greenhouse.io/commerceiq/jobs/5869621003 |
 | DriveWealth | Software Development Engineer 1 | https://boards.greenhouse.io/drivewealth/jobs/5308862003?gh_jid=5308862003 |
 | Roadie | Software Development Engineer in Test | https://boards.greenhouse.io/roadie/jobs/6919343002 |
-| reply | Software Development Engineer II | https://jobs.lever.co/reply/d5054664-e717-4c93-9a23-38cc26412060 |
-| The Pokémon Company International | Software Development Engineer (MuleSoft/Java) | https://boards.greenhouse.io/pokemoncareers/jobs/5759599003 |
-| GoCardless | Software Development Engineer | https://boards.greenhouse.io/gocardless/jobs/5465617 |
-| Acorns | Software Engineer (Intern) - Summer 2024 | https://boards.greenhouse.io/acorns/jobs/5693697 |
-| Applied Intuition | Software Engineer - New Grad | https://boards.greenhouse.io/appliedintuition/jobs/4296158005?gh_jid=4296158005 |
-| Checkr | Software Engineer | https://boards.greenhouse.io/checkr/jobs/5683632 |
-| Skylight | Software Engineer | https://boards.greenhouse.io/skylighthq/jobs/4017408005?gh_jid=4017408005 |
-| Varis - United States | SDE | https://boards.greenhouse.io/varisunitedstates/jobs/4085827005 |
-| LivePerson | Software Development Engineer (SDE) | https://boards.greenhouse.io/liveperson/jobs/5686915?gh_src=21f357661us |
-| CommerceIQ | SDE II - UI | https://boards.greenhouse.io/commerceiq/jobs/5855882003 |
-| Hiya | Senior Software Engineer (SDE III) | https://boards.greenhouse.io/hiya/jobs/5785635003 |
-| Interface AI | SDE III - Backend | https://boards.greenhouse.io/interfaceai/jobs/4271874006 |
-| Interface AI | SDE II - Engineering Delivery | https://boards.greenhouse.io/interfaceai/jobs/4254966006 |
-| quince | SDE 2 | https://jobs.lever.co/quince/807cb604-a6f4-4eb4-a0c8-55f64bddc911 |
-| hiver | SDE 2 DevOps | https://jobs.lever.co/hiver/0d3a2a37-a0c5-4a91-9057-635fbcd1fd37 |
-| CommerceIQ | Software Development Engineer- I (RMM) | https://boards.greenhouse.io/commerceiq/jobs/5869621003 |
