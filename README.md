@@ -7,6 +7,21 @@
 | Interface AI | SDE II - Engineering Delivery | https://boards.greenhouse.io/interfaceai/jobs/4254966006 |
 | lucidmotors | SDE in Distributed Automation Test Framework | https://jobs.lever.co/lucidmotors/8e2f3899-979c-4d5b-85d5-75166caf2381 |
 | hiver | SDE 2  Frontend | https://jobs.lever.co/hiver/ab840b70-1340-4739-8ff7-26da69427336 |
+| lucidmotors | SDE in Distributed Automation Test Framework | https://jobs.lever.co/lucidmotors/8e2f3899-979c-4d5b-85d5-75166caf2381/apply |
+| Innovaccer Inc. | Software Development Engineer-I (Frontend) | https://boards.greenhouse.io/innovaccer/jobs/7119143002 |
+| CommerceIQ | Software Development Engineer- I (RMM) | https://boards.greenhouse.io/commerceiq/jobs/5869621003 |
+| Roadie | Software Development Engineer in Test | https://boards.greenhouse.io/roadie/jobs/6919343002 |
+| zoox | Software Development Engineer in Test - Embedded Systems | https://jobs.lever.co/zoox/a7b72aed-8eb7-45e8-82e5-16ed576198c3 |
+| Mapbox | Software Development Engineer III, Data Platform | https://boards.greenhouse.io/mapbox/jobs/5443026?gh_jid=5443026 |
+| GoCardless | Software Development Engineer | https://boards.greenhouse.io/gocardless/jobs/5486298 |
+| ID.me | Software Development Engineer IV - Wallet Identity (McLean, VA or Sunnyvale, CA) | https://boards.greenhouse.io/idme/jobs/5758426003 |
+| Acorns | Software Engineer I, Web | https://boards.greenhouse.io/acorns/jobs/5708620 |
+| Varis - United States | SDE | https://boards.greenhouse.io/varisunitedstates/jobs/4085827005 |
+| CloudSEK | SDE I/II - Backend | https://boards.greenhouse.io/cloudsek/jobs/4969691004 |
+| Interface AI | SDE III - Backend | https://boards.greenhouse.io/interfaceai/jobs/4271874006 |
+| Interface AI | SDE II - Engineering Delivery | https://boards.greenhouse.io/interfaceai/jobs/4254966006 |
+| lucidmotors | SDE in Distributed Automation Test Framework | https://jobs.lever.co/lucidmotors/8e2f3899-979c-4d5b-85d5-75166caf2381 |
+| hiver | SDE 2  Frontend | https://jobs.lever.co/hiver/ab840b70-1340-4739-8ff7-26da69427336 |
 | Innovaccer Inc. | Software Development Engineer-I (Frontend) | https://boards.greenhouse.io/innovaccer/jobs/7119143002 |
 | Roadie | Software Development Engineer in Test | https://boards.greenhouse.io/roadie/jobs/6919343002 |
 | ShipBob, Inc. | Software Development Engineer II - Fulfillment Technologies | https://boards.greenhouse.io/shipbobinc/jobs/4358556005 |
@@ -83,18 +98,3 @@
 | Roadie | Software Development Engineer in Test | https://boards.greenhouse.io/roadie/jobs/6919343002 |
 | CommerceIQ | Software Development Engineer- I (RMM) | https://boards.greenhouse.io/commerceiq/jobs/5869621003 |
 | Innovaccer Inc. | Software Development Engineer-I (Frontend) | https://boards.greenhouse.io/innovaccer/jobs/7119143002 |
-| reply | Software Development Engineer II | https://jobs.lever.co/reply/d5054664-e717-4c93-9a23-38cc26412060 |
-| GoCardless | Software Development Engineer | https://boards.greenhouse.io/gocardless/jobs/5465617 |
-| DriveWealth | Software Development Engineer 1 | https://boards.greenhouse.io/drivewealth/jobs/5308862003?gh_jid=5308862003 |
-| ShipBob, Inc. | Software Development Engineer II - Fulfillment Technologies | https://boards.greenhouse.io/shipbobinc/jobs/4358556005 |
-| Acorns | Software Engineer I, Web | https://boards.greenhouse.io/acorns/jobs/5708620 |
-| Skylight | Software Engineer | https://boards.greenhouse.io/skylighthq/jobs/4017408005?gh_jid=4017408005 |
-| cohere | Software Engineer Intern/Co-op (Summer 2024) | https://jobs.lever.co/cohere/f307e2bb-38cc-46fd-8bc2-91a49f10ab3e |
-| Varis - United States | SDE | https://boards.greenhouse.io/varisunitedstates/jobs/4085827005 |
-| Hiya | Senior Software Engineer (SDE III) | https://boards.greenhouse.io/hiya/jobs/5785635003 |
-| CommerceIQ | SDE II - UI | https://boards.greenhouse.io/commerceiq/jobs/5855882003 |
-| Interface AI | SDE III - Backend | https://boards.greenhouse.io/interfaceai/jobs/4271874006 |
-| CloudSEK | SDE I/II - Backend | https://boards.greenhouse.io/cloudsek/jobs/4969691004 |
-| hiver | SDE 2 DevOps | https://jobs.lever.co/hiver/0d3a2a37-a0c5-4a91-9057-635fbcd1fd37 |
-| Interface AI | SDE II - Engineering Delivery | https://boards.greenhouse.io/interfaceai/jobs/4254966006 |
-| ID.me | Software Development Engineer IV - Wallet Identity (McLean, VA or Sunnyvale, CA) | https://boards.greenhouse.io/idme/jobs/5758426003 |
