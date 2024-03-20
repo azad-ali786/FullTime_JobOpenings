@@ -3,6 +3,25 @@
 | --- | --- | --- |
 | Varis - United States | SDE | https://boards.greenhouse.io/varisunitedstates/jobs/4085827005 |
 | Poppulo | Software Engineer (SDE-2) - Full Stack | https://boards.greenhouse.io/poppulo/jobs/5756919 |
+| Interface AI | SDE III - Backend | https://boards.greenhouse.io/interfaceai/jobs/4271874006 |
+| Interface AI | SDE II - Engineering Delivery | https://boards.greenhouse.io/interfaceai/jobs/4254966006 |
+| quince | SDE 3 - Front End | https://jobs.lever.co/quince/bff5eeb9-3bb4-4a52-a8cb-037fbefac8d7 |
+| Stackline | Software Development  Engineer II | https://boards.greenhouse.io/stackline/jobs/4365945005 |
+| quince | SDE 3 - Data Engineering | https://jobs.lever.co/quince/fbd27f47-4776-4b32-8b1d-7db0fad35a89 |
+| quince | SDE 3 | https://jobs.lever.co/quince/32d7eb05-48b0-4b45-8b45-2e0387fe8727 |
+| quince | SDE 2 - Data Engineering | https://jobs.lever.co/quince/ac2ea10f-827e-45e1-90bf-9cac00d5a0ba |
+| ID.me | Software Development Engineer IV - Wallet Identity (McLean, VA or Sunnyvale, CA) | https://boards.greenhouse.io/idme/jobs/5758426003 |
+| ID.me | Software Development Engineer - III - Wallet Tools | https://boards.greenhouse.io/idme/jobs/5759506003 |
+| zoox | Software Development Engineer in Test - Embedded Systems | https://jobs.lever.co/zoox/a7b72aed-8eb7-45e8-82e5-16ed576198c3 |
+| Sigmoid, Bengaluru | Software Development Engineer I | https://boards.greenhouse.io/sigmoid/jobs/4808088002 |
+| AppDirect | Associate Software Development Engineer | https://boards.greenhouse.io/appdirect/jobs/7276482002 |
+| Mapbox | Software Development Engineer II, Maps Search | https://boards.greenhouse.io/mapbox/jobs/5527230?gh_jid=5527230 |
+| Populate | Software Development Engineer | https://boards.greenhouse.io/applytopopulate/jobs/4965033004 |
+| Roadie | Associate Software Engineer | https://boards.greenhouse.io/roadie/jobs/7286646002 |
+| Anthropic | Software Engineer | https://jobs.lever.co/Anthropic/9ba1d7b4-5b21-4ac9-86f3-875a15c8a091 |
+| Wikimedia Foundation | Software Engineer, Trust and Safety Product | https://boards.greenhouse.io/wikimedia/jobs/5663779?gh_src=b4b01c141us |
+| Varis - United States | SDE | https://boards.greenhouse.io/varisunitedstates/jobs/4085827005 |
+| Poppulo | Software Engineer (SDE-2) - Full Stack | https://boards.greenhouse.io/poppulo/jobs/5756919 |
 | Stackline | Software Development  Engineer II | https://boards.greenhouse.io/stackline/jobs/4365945005 |
 | Interface AI | SDE II - Engineering Delivery | https://boards.greenhouse.io/interfaceai/jobs/4254966006 |
 | Interface AI | SDE III - Backend | https://boards.greenhouse.io/interfaceai/jobs/4271874006 |
@@ -79,22 +98,3 @@
 | Acorns | Software Engineer (Intern) - Summer 2024 | https://boards.greenhouse.io/acorns/jobs/5693697 |
 | palantir | Software Engineer, New Grad | https://jobs.lever.co/palantir/94984771-0704-446c-88c6-91ce748f6d92 |
 | Varis - United States | SDE | https://boards.greenhouse.io/varisunitedstates/jobs/4085827005 |
-| Interface AI | SDE II - Engineering Delivery | https://boards.greenhouse.io/interfaceai/jobs/4254966006 |
-| Interface AI | SDE III - Backend | https://boards.greenhouse.io/interfaceai/jobs/4271874006 |
-| Poppulo | Software Engineer (SDE-2) - AWS | https://boards.greenhouse.io/poppulo/jobs/5756929 |
-| Stackline | Software Development  Engineer II | https://boards.greenhouse.io/stackline/jobs/4365945005 |
-| hiver | SDE 2  Frontend | https://jobs.lever.co/hiver/ab840b70-1340-4739-8ff7-26da69427336 |
-| quince | SDE 3 - Data Engineering | https://jobs.lever.co/quince/fbd27f47-4776-4b32-8b1d-7db0fad35a89 |
-| quince | SDE 2 - Data Engineering | https://jobs.lever.co/quince/ac2ea10f-827e-45e1-90bf-9cac00d5a0ba |
-| ID.me | Software Development Engineer IV - Wallet Identity (McLean, VA or Sunnyvale, CA) | https://boards.greenhouse.io/idme/jobs/5758426003 |
-| AppDirect | Associate Software Development Engineer | https://boards.greenhouse.io/appdirect/jobs/7276482002 |
-| Innovaccer Inc. | Software Development Engineer-I (Frontend) | https://boards.greenhouse.io/innovaccer/jobs/7119143002 |
-| ID.me | Software Development Engineer - III - Wallet Accounts | https://boards.greenhouse.io/idme/jobs/5759506003 |
-| zoox | Software Development Engineer in Test - Embedded Systems | https://jobs.lever.co/zoox/a7b72aed-8eb7-45e8-82e5-16ed576198c3 |
-| CommerceIQ | Software Development Engineer- I (RMM) | https://boards.greenhouse.io/commerceiq/jobs/5869621003 |
-| Mapbox | Software Development Engineer III, Data Platform | https://boards.greenhouse.io/mapbox/jobs/5443026?gh_jid=5443026 |
-| Mapbox | Software Development Engineer III, Cloud Platform | https://boards.greenhouse.io/mapbox/jobs/5451839?gh_jid=5451839 |
-| Sustainable Talent | Software Development Engineer, Test | https://boards.greenhouse.io/sustainabletalent/jobs/4368213005?t=f47fd2755us |
-| Populate | Software Development Engineer | https://boards.greenhouse.io/applytopopulate/jobs/4965033004 |
-| SpaceX | Software Engineer (Dragon) | https://boards.greenhouse.io/spacex/jobs/7260274002?gh_jid=7260274002 |
-| Acorns | Software Engineer (Intern) - Summer 2024 | https://boards.greenhouse.io/acorns/jobs/5693697 |
