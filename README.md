@@ -1,6 +1,23 @@
 [![scraper-automation](https://github.com/azad-ali786/Job_Openings/actions/workflows/scraper-automation.yml/badge.svg)](https://github.com/azad-ali786/Job_Openings/actions/workflows/scraper-automation.yml)
 | Employer | Role | URL |
 | --- | --- | --- |
+| Poppulo | Software Engineer (SDE-1) - Full Stack | https://boards.greenhouse.io/poppulo/jobs/5830156 |
+| CloudSEK | SDE - Backend - Intern | https://boards.greenhouse.io/cloudsek/jobs/4435370004 |
+| Poppulo | Software Engineer-(SDE 1) C#/React Full Stack | https://boards.greenhouse.io/poppulo/jobs/5921986 |
+| RudderStack | SDE III - Backend | https://boards.greenhouse.io/rudderstack/jobs/5162395004 |
+| Varis - United States | SDE | https://boards.greenhouse.io/varisunitedstates/jobs/4085827005 |
+| quince | SDE 2 Mobile app | https://jobs.lever.co/quince/4881c425-eefd-4efc-9d86-9bc235eadbba |
+| getzuma | Backend Software Engineer (SDE-II) | https://jobs.lever.co/getzuma/c7035ad3-5d0f-4557-b86c-ecb88a43f281 |
+| RudderStack | SDE-II (Profiles) | https://boards.greenhouse.io/rudderstack/jobs/5165814004 |
+| getzuma | Backend Software Engineer (SDE-II) | https://jobs.lever.co/getzuma/c7035ad3-5d0f-4557-b86c-ecb88a43f281/apply |
+| Interface AI | SDE III - Backend | https://boards.greenhouse.io/interfaceai/jobs/4271874006 |
+| mcgovern | Software Development Engineer | https://jobs.lever.co/mcgovern/ab7c3fb4-c423-493a-ac50-b73374f39a7a |
+| ID.me | Software Development Engineer IV - Wallet Identity (Full Stack 30% FE) | https://boards.greenhouse.io/idme/jobs/5758426003 |
+| Sigmoid, Bengaluru | Software Development Engineer I | https://boards.greenhouse.io/sigmoid/jobs/4808088002 |
+| zoox | Software Development Engineer in Test - Embedded Systems | https://jobs.lever.co/zoox/a7b72aed-8eb7-45e8-82e5-16ed576198c3 |
+| Keystone | Software Development Engineer | https://boards.greenhouse.io/keystonestrategy/jobs/5614820 |
+| Study.com | Associate Software Engineer | https://jobs.lever.co/Study.com/97db6059-b701-4fff-97d7-0e1a85d513c2 |
+| goforward | Software Engineer, Full Stack | https://jobs.lever.co/goforward/04f6b1be-17a5-48e9-9b85-fa3039b31f99?lever-source=ForwardJobsLP |
 | quince | SDE 2 Mobile app | https://jobs.lever.co/quince/4881c425-eefd-4efc-9d86-9bc235eadbba |
 | getzuma | Backend Software Engineer (SDE-II) | https://jobs.lever.co/getzuma/c7035ad3-5d0f-4557-b86c-ecb88a43f281 |
 | getzuma | Backend Software Engineer (SDE-II) | https://jobs.lever.co/getzuma/36be1b9e-9531-4ccf-ada4-db5ac47ece9a |
@@ -81,20 +98,3 @@
 | ID.me | Software Development Engineer IV - Wallet Identity (Full Stack 30% FE) | https://boards.greenhouse.io/idme/jobs/5758426003 |
 | ID.me | Software Development Engineer - III - Wallet Accounts | https://boards.greenhouse.io/idme/jobs/5759506003 |
 | zoox | Software Development Engineer in Test - Embedded Systems | https://jobs.lever.co/zoox/a7b72aed-8eb7-45e8-82e5-16ed576198c3 |
-| Sigmoid, Bengaluru | Software Development Engineer I | https://boards.greenhouse.io/sigmoid/jobs/4808088002 |
-| Populate | Software Development Engineer | https://boards.greenhouse.io/applytopopulate/jobs/4965033004 |
-| goforward | Software Engineer, Full Stack | https://jobs.lever.co/goforward/04f6b1be-17a5-48e9-9b85-fa3039b31f99?lever-source=ForwardJobsLP |
-| Study.com | Associate Software Engineer | https://jobs.lever.co/Study.com/97db6059-b701-4fff-97d7-0e1a85d513c2 |
-| Poppulo | Software Engineer (SDE-1) - Full Stack | https://boards.greenhouse.io/poppulo/jobs/5830156 |
-| Poppulo | Software Engineer-(SDE 1) C#/React Full Stack | https://boards.greenhouse.io/poppulo/jobs/5921986 |
-| RudderStack | SDE-II (Profiles) | https://boards.greenhouse.io/rudderstack/jobs/5165814004 |
-| RudderStack | SDE III - Backend | https://boards.greenhouse.io/rudderstack/jobs/5162395004 |
-| Varis - United States | SDE | https://boards.greenhouse.io/varisunitedstates/jobs/4085827005 |
-| Plane | SDE - AI | https://boards.greenhouse.io/plane/jobs/4022318008?t=ed6a05d58us |
-| getzuma | Backend Software Engineer (SDE-II) | https://jobs.lever.co/getzuma/c7035ad3-5d0f-4557-b86c-ecb88a43f281 |
-| Interface AI | SDE III - Backend | https://boards.greenhouse.io/interfaceai/jobs/4271874006 |
-| quince | SDE 2 Mobile app | https://jobs.lever.co/quince/4881c425-eefd-4efc-9d86-9bc235eadbba |
-| getzuma | Backend Software Engineer (SDE-II) | https://jobs.lever.co/getzuma/c7035ad3-5d0f-4557-b86c-ecb88a43f281/apply |
-| ID.me | Software Development Engineer IV - Wallet Identity (Full Stack 30% FE) | https://boards.greenhouse.io/idme/jobs/5758426003 |
-| mcgovern | Software Development Engineer | https://jobs.lever.co/mcgovern/ab7c3fb4-c423-493a-ac50-b73374f39a7a |
-| ID.me | Software Development Engineer - III - Wallet Accounts | https://boards.greenhouse.io/idme/jobs/5759506003 |
