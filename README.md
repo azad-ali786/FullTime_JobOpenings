@@ -1,6 +1,9 @@
 [![scraper-automation](https://github.com/azad-ali786/Job_Openings/actions/workflows/scraper-automation.yml/badge.svg)](https://github.com/azad-ali786/Job_Openings/actions/workflows/scraper-automation.yml)
 | Employer | Role | URL |
 | --- | --- | --- |
+
+
+
 | getzuma | Backend Software Engineer (SDE-II) | https://jobs.lever.co/getzuma/c7035ad3-5d0f-4557-b86c-ecb88a43f281 |
 | Plane | SDE - AI | https://boards.greenhouse.io/plane/jobs/4022318008?t=ed6a05d58us |
 | CloudSEK | SDE - Backend - Intern | https://boards.greenhouse.io/cloudsek/jobs/4435370004?gh_src=a4732d054us |
@@ -95,6 +98,3 @@
 | CloudSEK | SDE - Backend - Intern | https://boards.greenhouse.io/cloudsek/jobs/4435370004 |
 | Plane | SDE - AI | https://boards.greenhouse.io/plane/jobs/4022318008?t=ed6a05d58us |
 | mindtickle | SDE II (Frontend) | https://jobs.lever.co/mindtickle/7bf3f154-a7b9-4d49-be3c-4580500afcae |
-| quince | SDE 2 Mobile app | https://jobs.lever.co/quince/4881c425-eefd-4efc-9d86-9bc235eadbba |
-| getzuma | Senior Backend Software Engineer (SDE-III) | https://jobs.lever.co/getzuma/6d4f433f-e35c-48f6-8057-366554dc97d8/apply |
-| Poppulo | Software Engineer (SDE-2) - AWS | https://boards.greenhouse.io/poppulo/jobs/5756929 |
