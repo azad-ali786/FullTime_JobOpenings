@@ -5,6 +5,17 @@
 | nium | SDE I | https://jobs.lever.co/nium/bc54a3d5-489f-443c-9cc3-1575bf60ab85 |
 | quince | SDE 2 | https://jobs.lever.co/quince/eb6b2d8d-e72b-4358-a073-a2a82e4bbb59 |
 | netomi | SDE II - Frontend | https://jobs.lever.co/netomi/95525f26-e018-4984-81e5-bb5e3a1363fa |
+| dreamsports | SDE 2 - Mobile App Development | https://jobs.lever.co/dreamsports/8431fafc-0261-4ced-aa95-c29359db3d23 |
+| dreamsports | SDE 2 - Backend | https://jobs.lever.co/dreamsports/c22d47fd-8af5-4e96-bb1b-e611f126fca1 |
+| zoox | Software Development Engineer in Test - Embedded Systems | https://jobs.lever.co/zoox/a7b72aed-8eb7-45e8-82e5-16ed576198c3 |
+| shakudo | Software Development Engineer | https://jobs.lever.co/shakudo/60830d45-8b73-4f58-8749-66cd4be050ac |
+| Twitch | Software Development Engineer | https://boards.greenhouse.io/twitch/jobs/7510584002 |
+| palantir | Software Engineer, Internship | https://jobs.lever.co/palantir/e27af7ab-41fc-40c9-b31d-02c6cb1c505c |
+| DoorDash | Software Engineer, Backend (All Teams) | https://boards.greenhouse.io/doordash/jobs/5630445?gh_jid=5630445&gh_src=7fd7129c1us |
+| CloudSEK | SDE - Backend - Intern | https://boards.greenhouse.io/cloudsek/jobs/4435370004 |
+| nium | SDE I | https://jobs.lever.co/nium/bc54a3d5-489f-443c-9cc3-1575bf60ab85 |
+| quince | SDE 2 | https://jobs.lever.co/quince/eb6b2d8d-e72b-4358-a073-a2a82e4bbb59 |
+| netomi | SDE II - Frontend | https://jobs.lever.co/netomi/95525f26-e018-4984-81e5-bb5e3a1363fa |
 | dreamsports | SDE 2 - Backend | https://jobs.lever.co/dreamsports/c22d47fd-8af5-4e96-bb1b-e611f126fca1 |
 | dreamsports | SDE 2 - Mobile App Development | https://jobs.lever.co/dreamsports/8431fafc-0261-4ced-aa95-c29359db3d23 |
 | zoox | Software Development Engineer in Test - Embedded Systems | https://jobs.lever.co/zoox/a7b72aed-8eb7-45e8-82e5-16ed576198c3 |
@@ -87,14 +98,3 @@
 | quince | SDE 3 - Data Engineering | https://jobs.lever.co/quince/fbd27f47-4776-4b32-8b1d-7db0fad35a89 |
 | quince | SDE III - Mobile App Development | https://jobs.lever.co/quince/c9f03c7d-66ad-479d-bba3-11922af45479 |
 | zoox | Software Development Engineer in Test - Embedded Systems | https://jobs.lever.co/zoox/a7b72aed-8eb7-45e8-82e5-16ed576198c3 |
-| Keystone | Software Development Engineer | https://boards.greenhouse.io/keystonestrategy/jobs/5614820 |
-| shipium | Software Development Engineer II | https://jobs.lever.co/shipium/d0543b6b-cf90-4a21-a800-beffb13868ce |
-| businesswire | Software Development Engineer in Test | https://jobs.lever.co/businesswire/f8829d4b-365b-4011-9494-f782560366b1 |
-| palantir | Software Engineer, New Grad - US Government | https://jobs.lever.co/palantir/a771a3d8-a99f-4df1-b250-a9a30c6dd070 |
-| DeepMind | Software Engineer, Engineering Productivity | https://boards.greenhouse.io/deepmind/jobs/6125815 |
-| quince | SDE 2 | https://jobs.lever.co/quince/eb6b2d8d-e72b-4358-a073-a2a82e4bbb59 |
-| CloudSEK | SDE - Backend - Intern | https://boards.greenhouse.io/cloudsek/jobs/4435370004?gh_src=a4732d054us |
-| nium | Backend Engineer - SDE I | https://jobs.lever.co/nium/bc54a3d5-489f-443c-9cc3-1575bf60ab85 |
-| dyte-io | SDE I - Frontend | https://jobs.lever.co/dyte-io/3b9a0502-a839-465e-b710-6ab84825f72d |
-| quince | SDE 3 - Data Engineering | https://jobs.lever.co/quince/fbd27f47-4776-4b32-8b1d-7db0fad35a89 |
-| netomi | SDE II - Frontend | https://jobs.lever.co/netomi/95525f26-e018-4984-81e5-bb5e3a1363fa |
