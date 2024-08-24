@@ -4,6 +4,18 @@
 | nium | SDE I | https://jobs.lever.co/nium/bc54a3d5-489f-443c-9cc3-1575bf60ab85 |
 | quince | SDE 2 | https://jobs.lever.co/quince/eb6b2d8d-e72b-4358-a073-a2a82e4bbb59 |
 | CloudSEK | SDE - Backend - Intern | https://boards.greenhouse.io/cloudsek/jobs/4435370004 |
+| quince | SDE 3 - Data Engineering | https://jobs.lever.co/quince/fbd27f47-4776-4b32-8b1d-7db0fad35a89 |
+| CloudSEK | Intern - SDE - Frontend | https://boards.greenhouse.io/cloudsek/jobs/4435378004 |
+| dyte-io | SDE I - Frontend | https://jobs.lever.co/dyte-io/3b9a0502-a839-465e-b710-6ab84825f72d |
+| HackerRank | Software Development Engineer II - Backend (Remote) | https://boards.greenhouse.io/hackerrank/jobs/6022037?gh_jid=6022037 |
+| Twitch | Software Development Engineer | https://boards.greenhouse.io/twitch/jobs/7510584002 |
+| shakudo | Software Development Engineer | https://jobs.lever.co/shakudo/60830d45-8b73-4f58-8749-66cd4be050ac |
+| nium | Senior Software Development Engineer | https://jobs.lever.co/nium/a8feb218-1959-447b-b3b4-e9deee68e857 |
+| zoox | Software Development Engineer in Test - Embedded Systems | https://jobs.lever.co/zoox/a7b72aed-8eb7-45e8-82e5-16ed576198c3 |
+| palantir | Software Engineer, New Grad | https://jobs.lever.co/palantir/94984771-0704-446c-88c6-91ce748f6d92 |
+| nium | SDE I | https://jobs.lever.co/nium/bc54a3d5-489f-443c-9cc3-1575bf60ab85 |
+| quince | SDE 2 | https://jobs.lever.co/quince/eb6b2d8d-e72b-4358-a073-a2a82e4bbb59 |
+| CloudSEK | SDE - Backend - Intern | https://boards.greenhouse.io/cloudsek/jobs/4435370004 |
 | netomi | SDE II - Frontend | https://jobs.lever.co/netomi/95525f26-e018-4984-81e5-bb5e3a1363fa |
 | CloudSEK | Intern - SDE - Frontend | https://boards.greenhouse.io/cloudsek/jobs/4435378004 |
 | HackerRank | Software Development Engineer II - Backend (Remote) | https://boards.greenhouse.io/hackerrank/jobs/6022037?gh_jid=6022037 |
@@ -86,15 +98,3 @@
 | quince | SDE 2 | https://jobs.lever.co/quince/eb6b2d8d-e72b-4358-a073-a2a82e4bbb59 |
 | netomi | SDE II - Frontend | https://jobs.lever.co/netomi/95525f26-e018-4984-81e5-bb5e3a1363fa |
 | Novo | QA Engineer (SDE-I) - Manual Testing | https://boards.greenhouse.io/novo/jobs/4026259004 |
-| CloudSEK | Intern - SDE - Frontend | https://boards.greenhouse.io/cloudsek/jobs/4435378004 |
-| shakudo | Software Development Engineer | https://jobs.lever.co/shakudo/60830d45-8b73-4f58-8749-66cd4be050ac |
-| Twitch | Software Development Engineer | https://boards.greenhouse.io/twitch/jobs/7510584002 |
-| nium | Senior Software Development Engineer | https://jobs.lever.co/nium/a8feb218-1959-447b-b3b4-e9deee68e857 |
-| palantir | Software Engineer, New Grad | https://jobs.lever.co/palantir/94984771-0704-446c-88c6-91ce748f6d92 |
-| nium | SDE I | https://jobs.lever.co/nium/bc54a3d5-489f-443c-9cc3-1575bf60ab85 |
-| quince | SDE 2 | https://jobs.lever.co/quince/eb6b2d8d-e72b-4358-a073-a2a82e4bbb59 |
-| CloudSEK | SDE - Backend - Intern | https://boards.greenhouse.io/cloudsek/jobs/4435370004 |
-| netomi | SDE II - Frontend | https://jobs.lever.co/netomi/95525f26-e018-4984-81e5-bb5e3a1363fa |
-| Novo | QA Engineer (SDE-I) - Manual Testing | https://boards.greenhouse.io/novo/jobs/4026259004 |
-| dreamsports | SDE 3 - Backend | https://jobs.lever.co/dreamsports/f0fcccf3-fc6d-4b82-904c-ce76cbe7e1e9 |
-| CloudSEK | Intern - SDE - Frontend | https://boards.greenhouse.io/cloudsek/jobs/4435378004 |
