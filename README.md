@@ -2,6 +2,16 @@
 | Employer | Role | URL |
 | --- | --- | --- |
 | nium | SDE I | https://jobs.lever.co/nium/bc54a3d5-489f-443c-9cc3-1575bf60ab85 |
+| CloudSEK | SDE - Backend - Intern | https://boards.greenhouse.io/cloudsek/jobs/4435370004 |
+| quince | SDE 2 | https://jobs.lever.co/quince/eb6b2d8d-e72b-4358-a073-a2a82e4bbb59 |
+| dreamsports | SDE 2 - Mobile App Development | https://jobs.lever.co/dreamsports/8431fafc-0261-4ced-aa95-c29359db3d23 |
+| unstructuredtechnologies | Senior Software Development Engineer (SDE) | https://jobs.lever.co/unstructuredtechnologies/1b64715f-1e66-4363-9618-7b9ca8eb2b8a |
+| unstructuredtechnologies | Principal Software Development Engineer (SDE) | https://jobs.lever.co/unstructuredtechnologies/e60b0da8-3281-43ff-a183-48f84f759a5a |
+| shakudo | Software Development Engineer | https://jobs.lever.co/shakudo/60830d45-8b73-4f58-8749-66cd4be050ac |
+| Twitch | Software Development Engineer | https://boards.greenhouse.io/twitch/jobs/7510584002 |
+| nium | Software Development Engineer | https://jobs.lever.co/nium/e3be2d80-ead4-436a-8718-d981f2c6d833 |
+
+| nium | SDE I | https://jobs.lever.co/nium/bc54a3d5-489f-443c-9cc3-1575bf60ab85 |
 | 4942aa7a-d52c-412b-b99b-f67a3581d6eb | SDE I (Frontend) | https://jobs.lever.co/mindtickle/4942aa7a-d52c-412b-b99b-f67a3581d6eb/ |
 | quince | SDE 2 | https://jobs.lever.co/quince/eb6b2d8d-e72b-4358-a073-a2a82e4bbb59 |
 | unstructuredtechnologies | Senior Software Development Engineer (SDE) | https://jobs.lever.co/unstructuredtechnologies/1b64715f-1e66-4363-9618-7b9ca8eb2b8a |
@@ -88,13 +98,3 @@
 | Keystone | Software Development Engineer | https://boards.greenhouse.io/keystonestrategy/jobs/5614820 |
 | palantir | Software Engineer, New Grad | https://jobs.lever.co/palantir/94984771-0704-446c-88c6-91ce748f6d92 |
 | nium | SDE I | https://jobs.lever.co/nium/bc54a3d5-489f-443c-9cc3-1575bf60ab85 |
-| quince | SDE 2 | https://jobs.lever.co/quince/eb6b2d8d-e72b-4358-a073-a2a82e4bbb59 |
-| CloudSEK | SDE - Backend - Intern | https://boards.greenhouse.io/cloudsek/jobs/4435370004 |
-| netomi | SDE II - Frontend | https://jobs.lever.co/netomi/95525f26-e018-4984-81e5-bb5e3a1363fa |
-| CloudSEK | Intern - SDE - Frontend | https://boards.greenhouse.io/cloudsek/jobs/4435378004 |
-| dreamsports | SDE 2 - Mobile App Development | https://jobs.lever.co/dreamsports/8431fafc-0261-4ced-aa95-c29359db3d23 |
-| mindtickle | Technical Account Manager | https://jobs.lever.co/mindtickle/000b0fd1-77bf-44ec-9fb4-b3f779a76cbc |
-| mindtickle | SET-II | https://jobs.lever.co/mindtickle/3b324b92-6c08-414f-9b5a-70ab04f20278 |
-| mindtickle | Software Development Engineer in Test - I | https://jobs.lever.co/mindtickle/4f74229f-6721-48ea-a284-a8d61b6c9498 |
-| HackerRank | Software Development Engineer II - Backend (Remote) | https://boards.greenhouse.io/hackerrank/jobs/6022037?gh_jid=6022037 |
-| shakudo | Software Development Engineer | https://jobs.lever.co/shakudo/60830d45-8b73-4f58-8749-66cd4be050ac |
