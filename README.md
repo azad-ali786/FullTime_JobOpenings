@@ -14,6 +14,9 @@
 
 
 
+
+
+
 | mastrics | Software Development Engineer, Amazon Connect | https://jobs.lever.co/mastrics/461da660-d877-4937-91ed-2eb47f34cc7b |
 | DoorDash USA | Software Engineer I, Entry-Level (Graduation Date: Fall 2024-Summer 2025) | https://boards.greenhouse.io/doordashusa/jobs/6330949 |
 | nium | SDE I | https://jobs.lever.co/nium/bc54a3d5-489f-443c-9cc3-1575bf60ab85 |
@@ -95,6 +98,3 @@
 | unstructuredtechnologies | Senior Software Development Engineer (SDE) | https://jobs.lever.co/unstructuredtechnologies/1b64715f-1e66-4363-9618-7b9ca8eb2b8a/apply |
 | netomi | SDE II - Frontend | https://jobs.lever.co/netomi/a69d3638-5cb9-4619-a917-5b619330cb3c |
 | hevodata | SDE II | https://jobs.lever.co/hevodata/10868a75-51ac-4905-9f6a-dc7093b50973 |
-| mastrics | Software Development Engineer, Amazon Connect | https://jobs.lever.co/mastrics/461da660-d877-4937-91ed-2eb47f34cc7b |
-| Kobie | Software Development Engineer in Test | https://boards.greenhouse.io/kobie/jobs/6278406003?utm_source=algojobs&utm_medium=website&ref=algojobs |
-| DoorDash USA | Software Engineer I, Entry-Level (Graduation Date: Fall 2024-Summer 2025) | https://boards.greenhouse.io/doordashusa/jobs/6330949 |
