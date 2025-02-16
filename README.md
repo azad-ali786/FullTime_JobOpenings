@@ -95,6 +95,5 @@
 
 
 
-| mastrics | Software Development Engineer, Amazon Connect | https://jobs.lever.co/mastrics/461da660-d877-4937-91ed-2eb47f34cc7b |
-| DoorDash USA | Software Engineer I, Entry-Level (Graduation Date: Fall 2024-Summer 2025) | https://boards.greenhouse.io/doordashusa/jobs/6330949 |
-| nium | SDE I | https://jobs.lever.co/nium/bc54a3d5-489f-443c-9cc3-1575bf60ab85 |
+
+
