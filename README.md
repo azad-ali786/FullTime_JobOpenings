@@ -2,6 +2,10 @@
 | Employer | Role | URL |
 | --- | --- | --- |
 
+| welocalize | Software Development Engineer | https://jobs.lever.co/welocalize/f24d6ca3-ee6e-4732-a31c-a79bd08c0fc7 |
+| zoox | Software Development Engineer in Test - Embedded Systems | https://jobs.lever.co/zoox/908497d8-b3f6-4b5b-b715-abcf07678d58 |
+
+
 
 
 
@@ -90,10 +94,6 @@
 
 | fb9adf2a-83b2-401b-8332-b88bb26c21b8 | SDE I (Frontend) | https://jobs.lever.co/netomi/fb9adf2a-83b2-401b-8332-b88bb26c21b8/ |
 | meesho | Software Development Engineer III -Backend | https://jobs.lever.co/meesho/c68ee07f-0e16-455b-bc4a-87848aaf46fa |
-
-
-
-
 
 
 
