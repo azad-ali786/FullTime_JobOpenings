@@ -97,4 +97,3 @@
 
 
 
-| nium | SDE I | https://jobs.lever.co/nium/882bf808-4205-4fdd-8a2c-96f730d9f77e |
