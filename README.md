@@ -88,12 +88,12 @@
 
 
 
+
+
+
 | netomi | SDE I (Frontend) | https://jobs.lever.co/netomi/fb9adf2a-83b2-401b-8332-b88bb26c21b8?lever-source%5B%5D=jobs.fin.capital |
 | netomi | SDE II - Backend | https://jobs.lever.co/netomi/eeccaf3d-c3c0-4ae0-b702-0eac8eccd4b8 |
 | safe | Software Development Engineer II - Frontend | https://jobs.lever.co/safe/e10bdf1f-540c-48be-a7fd-edc64f295f55?utm_source=MassMutual+Ventures+job+board&utm_medium=getro.com&gh_src=MassMutual+Ventures+job+board |
 | Loop%20AI | Senior Software Engineer (SDE III) | https://jobs.lever.co/Loop%20AI/00f49e77-1cba-44a1-90b5-365beb9fadbc |
 | oneimpression | SDE 1 Frontend | https://jobs.lever.co/oneimpression/e00538da-5611-4458-83f6-4bb178714a4e |
 | netomi | SDE I Backend | https://jobs.lever.co/netomi/6724aa9e-157b-442e-894e-c995b976a78b |
-
-
-
