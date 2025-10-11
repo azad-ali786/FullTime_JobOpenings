@@ -97,4 +97,3 @@
 
 
 
-| netomi | SDE I (Frontend) | https://jobs.lever.co/netomi/fb9adf2a-83b2-401b-8332-b88bb26c21b8?lever-source%5B%5D=jobs.fin.capital |
