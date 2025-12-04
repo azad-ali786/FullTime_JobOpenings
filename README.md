@@ -1,6 +1,12 @@
 [![scraper-automation](https://github.com/azad-ali786/Job_Openings/actions/workflows/scraper-automation.yml/badge.svg)](https://github.com/azad-ali786/Job_Openings/actions/workflows/scraper-automation.yml)
 | Employer | Role | URL |
 | --- | --- | --- |
+| netomi | SDE I - Frontend | https://jobs.lever.co/netomi/fb9adf2a-83b2-401b-8332-b88bb26c21b8 |
+| Loop%20AI | Senior Software Engineer - (SDE 3) | https://jobs.lever.co/Loop%20AI/00f49e77-1cba-44a1-90b5-365beb9fadbc |
+| jobgether | SDE III - Backend | https://jobs.lever.co/jobgether/aca04c9d-b4ea-4458-976c-a502c92e395d |
+| meesho | SDE I - iOS | https://jobs.lever.co/meesho/2da20e66-3447-41fa-a08c-e973cd9b064b?lever-source%5B%5D=jobs.southparkcommons.com |
+
+
 
 
 
@@ -92,8 +98,3 @@
 
 
 | Loop%20AI | Senior Software Engineer - (SDE 3) | https://jobs.lever.co/Loop%20AI/00f49e77-1cba-44a1-90b5-365beb9fadbc |
-| oneimpression | SDE 1 Frontend | https://jobs.lever.co/oneimpression/e00538da-5611-4458-83f6-4bb178714a4e |
-| netomi | SDE II - Backend | https://jobs.lever.co/netomi/eeccaf3d-c3c0-4ae0-b702-0eac8eccd4b8 |
-| meesho | Software Development Engineer III -Backend | https://jobs.lever.co/meesho/c68ee07f-0e16-455b-bc4a-87848aaf46fa?lever-source%5B%5D=careers.peakxv.com |
-
-
